@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="4" build="602" />
+	<region id="TextureBank">
+		<node id="TextureBank">
+			<children>
+				<!--Pistol!-->
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="1024" />
+					<attribute id="ID" type="FixedString" value="73d26204-0156-4516-8361-5a33a9ca4517" />
+					<attribute id="Name" type="LSString" value="ATO_Flintlock" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_Flintlock/Resources/ATO_Flintlock_BM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="ATO_Flintlock" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="1024" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="1024" />
+					<attribute id="ID" type="FixedString" value="37d376fd-3b28-4535-b90c-4fdbcd6f9152" />
+					<attribute id="Name" type="LSString" value="ATO_Flintlock" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_Flintlock/Resources/ATO_Flintlock_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="ATO_Flintlock" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="1024" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="1024" />
+					<attribute id="ID" type="FixedString" value="2c76ed0c-fdfc-453b-9b36-359ccf96fb86" />
+					<attribute id="Name" type="LSString" value="ATO_Flintlock" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_Flintlock/Resources/ATO_Flintlock_PM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="ATO_Flintlock" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="1024" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<!--Musket!-->
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="1024" />
+					<attribute id="ID" type="FixedString" value="ae987cda-f143-4f9a-bfc6-14611476f77d" />
+					<attribute id="Name" type="LSString" value="ATO_Musket" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_Musket/Resources/ATO_Musket_BM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="ATO_Musket" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="1024" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="1024" />
+					<attribute id="ID" type="FixedString" value="0b1d422f-b917-4d73-a32d-5073bcfb90c0" />
+					<attribute id="Name" type="LSString" value="ATO_Musket" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_Musket/Resources/ATO_Musket_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="ATO_Musket" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="1024" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="1024" />
+					<attribute id="ID" type="FixedString" value="0550ac14-90d9-4b72-b43a-78008e88b8a6" />
+					<attribute id="Name" type="LSString" value="ATO_Musket" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_Musket/Resources/ATO_Musket_PM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="ATO_Musket" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="1024" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<!--Blunderbuss!-->
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="1024" />
+					<attribute id="ID" type="FixedString" value="4ca0bd1d-77cc-42c5-89a2-f868a9f1c18c" />
+					<attribute id="Name" type="LSString" value="ATO_Blunderbuss" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_Blunderbuss/Resources/ATO_Blunderbuss_BM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="ATO_Blunderbuss" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="1024" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="1024" />
+					<attribute id="ID" type="FixedString" value="376cf72d-c0a7-4672-bfb7-a916ab8df31f" />
+					<attribute id="Name" type="LSString" value="ATO_Blunderbuss" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_Blunderbuss/Resources/ATO_Blunderbuss_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="ATO_Blunderbuss" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="1024" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="1024" />
+					<attribute id="ID" type="FixedString" value="b774df1e-76e7-43f5-8c71-631ae6256dd6" />
+					<attribute id="Name" type="LSString" value="ATO_Blunderbuss" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_Blunderbuss/Resources/ATO_Blunderbuss_PM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="ATO_Blunderbuss" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="1024" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<!--GunChest!-->
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="4096" />
+					<attribute id="ID" type="FixedString" value="d78848c3-ed5b-4575-a4bc-10296fcacb25" />
+					<attribute id="Name" type="LSString" value="ATO_GunChest" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Items/ATO/ATO_GunChest/Resources/ATO_GunChest_BM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="ATO_GunChest" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="4096" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="4096" />
+					<attribute id="ID" type="FixedString" value="f9b8d458-67f2-4a7c-9780-b5cfb80e1496" />
+					<attribute id="Name" type="LSString" value="ATO_GunChest" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Items/ATO/ATO_GunChest/Resources/ATO_GunChest_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="ATO_GunChest" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="4096" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="4096" />
+					<attribute id="ID" type="FixedString" value="2c04861b-6b59-46b2-aaff-2eb4208e59d6" />
+					<attribute id="Name" type="LSString" value="ATO_GunChest" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Items/ATO/ATO_GunChest/Resources/ATO_GunChest_PM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="ATO_GunChest" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="4096" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<!--SCOB Pistol!-->
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="4096" />
+					<attribute id="ID" type="FixedString" value="7be0e661-4daf-4464-8bf7-ffe68bb09b13" />
+					<attribute id="Name" type="LSString" value="ATO_SCOB_Flintlock" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_SCOB_Flintlock/Resources/ATO_SCOB_Flintlock_BM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="ATO_SCOB_Flintlock" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="4096" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="4096" />
+					<attribute id="ID" type="FixedString" value="0b6131f1-67f7-404c-980e-04c9b5c73053" />
+					<attribute id="Name" type="LSString" value="ATO_SCOB_Flintlock" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_SCOB_Flintlock/Resources/ATO_SCOB_Flintlock_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="ATO_SCOB_Flintlock" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="4096" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="4096" />
+					<attribute id="ID" type="FixedString" value="da04fbde-07ed-49fa-bb4b-849f1d10ca71" />
+					<attribute id="Name" type="LSString" value="ATO_SCOB_Flintlock" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_SCOB_Flintlock/Resources/ATO_SCOB_Flintlock_PM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="ATO_SCOB_Flintlock" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="4096" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<!--SCOB Musket!-->
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="4096" />
+					<attribute id="ID" type="FixedString" value="203a1094-110a-480c-a55a-5dae416d3f6f" />
+					<attribute id="Name" type="LSString" value="ATO_SCOB_Musket" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_SCOB_Musket/Resources/ATO_SCOB_Musket_BM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="ATO_SCOB_Musket" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="4096" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="4096" />
+					<attribute id="ID" type="FixedString" value="5a03f8c1-b727-47b7-b745-915eeecd679e" />
+					<attribute id="Name" type="LSString" value="ATO_SCOB_Musket" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_SCOB_Musket/Resources/ATO_SCOB_Musket_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="ATO_SCOB_Musket" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="4096" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="4096" />
+					<attribute id="ID" type="FixedString" value="349c2db0-367f-4db2-9688-58b58b482e07" />
+					<attribute id="Name" type="LSString" value="ATO_SCOB_Musket" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_SCOB_Musket/Resources/ATO_SCOB_Musket_PM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="ATO_SCOB_Musket" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="4096" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+			</children>
+		</node>
+	</region>	
+	<region id="MaterialBank">
+		<node id="MaterialBank">
+			<children>
+				<!-- Pistol !-->
+				<node id="Resource">
+					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="67b680f6-560f-4a78-9d75-3dd5acb00f6c" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="Flintlock_Mat" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Base/Base.lsf" /> <!-- alphaTest !-->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
+					<children>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="False" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="SeeThroughEnabled" />
+							<attribute id="Value" type="float" value="0" /> <!--this makes it seethrough, the lower the more solid -->
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0.5" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="Reflectance" />
+							<attribute id="Value" type="float" value="1" /> <!-- the lower the value the less is reflects -->
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
+							<attribute id="IgnoreTexelDensity" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="37d376fd-3b28-4535-b90c-4fdbcd6f9152" />
+							<attribute id="ParameterName" type="FixedString" value="normalmap" /> <!-- this is your normalmap texture-->
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="73d26204-0156-4516-8361-5a33a9ca4517" />
+							<attribute id="ParameterName" type="FixedString" value="basecolor" /> <!-- this is your base color map _BM-->
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="2c76ed0c-fdfc-453b-9b36-359ccf96fb86" />
+							<attribute id="ParameterName" type="FixedString" value="physicalmap" /> <!-- if you don't like how it reflects light, make a physical map and link it here-->
+						</node>
+					</children>
+				</node>
+				<!-- Musket !-->
+				<node id="Resource">
+					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="c606104b-2fda-4731-b8e2-b8a0cdee0b01" /> New UUID
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="Musket_Mat" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Base/Base.lsf" /> <!-- alphaTest !-->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
+					<children>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="False" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="SeeThroughEnabled" />
+							<attribute id="Value" type="float" value="0" /> <!--this makes it seethrough, the lower the more solid -->
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0.5" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="Reflectance" />
+							<attribute id="Value" type="float" value="1" /> <!-- the lower the value the less is reflects -->
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
+							<attribute id="IgnoreTexelDensity" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="0b1d422f-b917-4d73-a32d-5073bcfb90c0" />
+							<attribute id="ParameterName" type="FixedString" value="normalmap" /> <!-- this is your normalmap texture-->
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="ae987cda-f143-4f9a-bfc6-14611476f77d" />
+							<attribute id="ParameterName" type="FixedString" value="basecolor" /> <!-- this is your base color map _BM-->
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="0550ac14-90d9-4b72-b43a-78008e88b8a6" />
+							<attribute id="ParameterName" type="FixedString" value="physicalmap" /> <!-- if you don't like how it reflects light, make a physical map and link it here-->
+						</node>
+					</children>
+				</node>
+				<!--Blunderbuss !-->
+				<node id="Resource">
+					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="dd4d162d-c632-47fb-b3b6-659e8ad6ef3d" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="Blunderbuss_Mat" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Base/Base.lsf" /> <!-- alphaTest !-->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
+					<children>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="False" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="SeeThroughEnabled" />
+							<attribute id="Value" type="float" value="0" /> <!--this makes it seethrough, the lower the more solid -->
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0.5" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="Reflectance" />
+							<attribute id="Value" type="float" value="1" /> <!-- the lower the value the less is reflects -->
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
+							<attribute id="IgnoreTexelDensity" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="376cf72d-c0a7-4672-bfb7-a916ab8df31f" />
+							<attribute id="ParameterName" type="FixedString" value="normalmap" /> <!-- this is your normalmap texture-->
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="4ca0bd1d-77cc-42c5-89a2-f868a9f1c18c" />
+							<attribute id="ParameterName" type="FixedString" value="basecolor" /> <!-- this is your base color map _BM-->
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="b774df1e-76e7-43f5-8c71-631ae6256dd6" />
+							<attribute id="ParameterName" type="FixedString" value="physicalmap" /> <!-- if you don't like how it reflects light, make a physical map and link it here-->
+						</node>
+					</children>
+				</node>
+				<!--GunChest !-->
+				<node id="Resource">
+					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="9ff914a5-0b82-411a-b9df-c00ee78846ca" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="GunChest_Mat" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Base/Base.lsf" /> <!-- alphaTest !-->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
+					<children>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="False" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="SeeThroughEnabled" />
+							<attribute id="Value" type="float" value="0" /> <!--this makes it seethrough, the lower the more solid -->
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0.5" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="Reflectance" />
+							<attribute id="Value" type="float" value="5" /> <!-- the lower the value the less is reflects -->
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
+							<attribute id="IgnoreTexelDensity" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="f9b8d458-67f2-4a7c-9780-b5cfb80e1496" />
+							<attribute id="ParameterName" type="FixedString" value="normalmap" /> <!-- this is your normalmap texture-->
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="d78848c3-ed5b-4575-a4bc-10296fcacb25" />
+							<attribute id="ParameterName" type="FixedString" value="basecolor" /> <!-- this is your base color map _BM-->
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="2c04861b-6b59-46b2-aaff-2eb4208e59d6" />
+							<attribute id="ParameterName" type="FixedString" value="physicalmap" /> <!-- if you don't like how it reflects light, make a physical map and link it here-->
+						</node>
+					</children>
+				</node>
+				<!-- SCOB Pistol !-->
+				<node id="Resource">
+					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="d2452b6d-ce26-448c-9b01-902822488425" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="SCOB_Flintlock_Mat" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Base/Base.lsf" /> <!-- alphaTest !-->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
+					<children>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="False" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="SeeThroughEnabled" />
+							<attribute id="Value" type="float" value="0" /> <!--this makes it seethrough, the lower the more solid -->
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0.5" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="Reflectance" />
+							<attribute id="Value" type="float" value="1" /> <!-- the lower the value the less is reflects -->
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
+							<attribute id="IgnoreTexelDensity" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="0b6131f1-67f7-404c-980e-04c9b5c73053" />
+							<attribute id="ParameterName" type="FixedString" value="normalmap" /> <!-- this is your normalmap texture-->
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="7be0e661-4daf-4464-8bf7-ffe68bb09b13" />
+							<attribute id="ParameterName" type="FixedString" value="basecolor" /> <!-- this is your base color map _BM-->
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="da04fbde-07ed-49fa-bb4b-849f1d10ca71" />
+							<attribute id="ParameterName" type="FixedString" value="physicalmap" /> <!-- if you don't like how it reflects light, make a physical map and link it here-->
+						</node>
+					</children>
+				</node>
+				<!-- SCOB Musket !-->
+				<node id="Resource">
+					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="7ed24091-e8cf-4798-8e46-e423e6be5b78" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="SCOB_Musket_Mat" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Base/Base.lsf" /> <!-- alphaTest !-->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
+					<children>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="False" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="SeeThroughEnabled" />
+							<attribute id="Value" type="float" value="0" /> <!--this makes it seethrough, the lower the more solid -->
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0.5" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="Reflectance" />
+							<attribute id="Value" type="float" value="1" /> <!-- the lower the value the less is reflects -->
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
+							<attribute id="IgnoreTexelDensity" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="5a03f8c1-b727-47b7-b745-915eeecd679e" />
+							<attribute id="ParameterName" type="FixedString" value="normalmap" /> <!-- this is your normalmap texture-->
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="203a1094-110a-480c-a55a-5dae416d3f6f" />
+							<attribute id="ParameterName" type="FixedString" value="basecolor" /> <!-- this is your base color map _BM-->
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="349c2db0-367f-4db2-9688-58b58b482e07" />
+							<attribute id="ParameterName" type="FixedString" value="physicalmap" /> <!-- if you don't like how it reflects light, make a physical map and link it here-->
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+	<region id="VisualBank">
+		<node id="VisualBank">
+			<children>
+				<!-- Flintlock !-->
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.06000299 0.0664641 0.2589397" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.05077773 -0.04573484 -1.283713" />
+					<attribute id="Center" type="fvec3" value="0.004612628 0.01036463 -0.5123865" />
+					<attribute id="ID" type="FixedString" value="38bb6a28-6dd2-4100-984a-a1e5d4ec4e9c" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="ATO_Flintlock" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.7753447" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_Flintlock/Resources/ATO_Flintlock.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_Flintlock/Resources/ATO_Flintlock.Dummy_ATO_Flintlock.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="67b680f6-560f-4a78-9d75-3dd5acb00f6c" />
+							<attribute id="ObjectID" type="FixedString" value="ATO_Flintlock.ATO_Flintlock_0_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>
+				<!-- Musket !-->
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.06000299 0.0664641 0.2589397" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.05077773 -0.04573484 -1.283713" />
+					<attribute id="Center" type="fvec3" value="0.004612628 0.01036463 -0.5123865" />
+					<attribute id="ID" type="FixedString" value="06379da6-2f47-4949-a441-87893f8d9878" />New UUID
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="ATO_Musket" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.7753447" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_Musket/Resources/ATO_Musket.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_Musket/Resources/ATO_Musket.Dummy_ATO_Musket.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="c606104b-2fda-4731-b8e2-b8a0cdee0b01" /> New UUID
+							<attribute id="ObjectID" type="FixedString" value="ATO_Musket.ATO_Musket_0_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>
+				<!-- Blunderbuss !-->
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.06000299 0.0664641 0.2589397" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.05077773 -0.04573484 -1.283713" />
+					<attribute id="Center" type="fvec3" value="0.004612628 0.01036463 -0.5123865" />
+					<attribute id="ID" type="FixedString" value="201b991d-51ee-4221-9a8c-900b9b291a30" />New UUID
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="ATO_Blunderbuss" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.7753447" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_Blunderbuss/Resources/ATO_Blunderbuss.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_Blunderbuss/Resources/ATO_Blunderbuss.Dummy_ATO_Blunderbuss.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="dd4d162d-c632-47fb-b3b6-659e8ad6ef3d" /> New UUID
+							<attribute id="ObjectID" type="FixedString" value="ATO_Blunderbuss.ATO_Blunderbuss_0_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>
+				<!-- GunChest !-->
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.06000299 0.0664641 0.2589397" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.05077773 -0.04573484 -1.283713" />
+					<attribute id="Center" type="fvec3" value="0.004612628 0.01036463 -0.5123865" />
+					<attribute id="ID" type="FixedString" value="ccc1d9e6-c578-4450-9607-bbefb7ce8579" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="ATO_GunChest" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.7753447" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Items/ATO/ATO_GunChest/Resources/ATO_GunChest.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Firearms/Assets/Items/ATO/ATO_GunChest/Resources/ATO_GunChest.Dummy_ATO_GunChest.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9ff914a5-0b82-411a-b9df-c00ee78846ca" />
+							<attribute id="ObjectID" type="FixedString" value="ATO_GunChest.ATO_GunChest.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>
+				<!-- SCOB Flintlock !-->
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.06000299 0.0664641 0.2589397" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.05077773 -0.04573484 -1.283713" />
+					<attribute id="Center" type="fvec3" value="0.004612628 0.01036463 -0.5123865" />
+					<attribute id="ID" type="FixedString" value="38f50f8b-ddae-4b1a-9e79-3887d3c3f87a" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="ATO_SCOB_Flintlock" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.7753447" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_SCOB_Flintlock/Resources/ATO_SCOB_Flintlock.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_SCOB_Flintlock/Resources/ATO_SCOB_Flintlock.Dummy_ATO_Flintlock.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="d2452b6d-ce26-448c-9b01-902822488425" />
+							<attribute id="ObjectID" type="FixedString" value="ATO_SCOB_Flintlock.ATO_Flintlock_0_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>
+				<!-- SCOB Musket !-->
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.06000299 0.0664641 0.2589397" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.05077773 -0.04573484 -1.283713" />
+					<attribute id="Center" type="fvec3" value="0.004612628 0.01036463 -0.5123865" />
+					<attribute id="ID" type="FixedString" value="f81009b8-e488-4fe7-bb05-50fcd48d4273" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="ATO_SCOB_Musket" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.7753447" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_SCOB_Musket/Resources/ATO_SCOB_Musket.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_SCOB_Musket/Resources/ATO_SCOB_Musket.Dummy_ATO_SCOB_Musket.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="7ed24091-e8cf-4798-8e46-e423e6be5b78" />
+							<attribute id="ObjectID" type="FixedString" value="ATO_SCOB_Musket.ATO_SCOB_Musket_0_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

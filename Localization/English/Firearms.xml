@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <content contentuid="h900372b6gf1dfg47cdg855bg2b80d92796c6" version="1">Flintlock Pistol</content>
+  <content contentuid="h50526015g759bg4970g9b67g15e1457699b8" version="1">A mechanical wonder. A cannon small enough to be held in one hand, firing a projectile with the pull of a trigger. </content>
+  <content contentuid="h73db274eg21d2g4aeeg9f3fg7b258408c289" version="1">Musket</content>
+  <content contentuid="hd33f95d4gc3dcg417agb8a6g74a3ecdf2892" version="1">A mechanical wonder. Able to fire a projectile with the pull of a trigger.</content>
+  <content contentuid="h1f6894f8g13f6g421bg9130g892dd1ca48ba" version="1">Bullet</content>
+  <content contentuid="h454389f2g8b28g4db5g8084g2a4925f6d365" version="1">A projectile fired from firearms</content>
+  <content contentuid="hb868a65bg8ed2g42adgb24cgd55c9f9781f5" version="1">Mini Gun</content>
+  <content contentuid="h29426475g90e0g4b6egac92g996491a98efe" version="1">A firearm that can shoot multiple targets per attack</content>  
+  <content contentuid="he6ca9decg1ea7g452agbeb7gb79c82c49d2e" version="1">Rapid Fire</content>
+  <content contentuid="h51fa5535g6c82g4328g918dg7f8b712df83a" version="1">Fires 10 times.</content>
+  <content contentuid="hb692195ag8aafg4e55g8a14g54e5bcdd5ab2" version="1">Reloading</content>
+  <content contentuid="h28146f59gb3f1g4d78g94dag6fe13ad93af7" version="1">Firearms must be reloaded after firing.</content>
+  <content contentuid="h25cab903g84d4g41b5g8c0dge75495ae7ed9" version="1">Palm Pistol</content>
+  <content contentuid="h04e90a49g04c1g4574gb0fbg5189b2301531" version="1">A small, palm-sized pistol.</content>
+  <content contentuid="h0f2f3579g16b9g4399ga6a3gca20c7daa622" version="1">Pepperbox</content>
+  <content contentuid="ha529a62bga422g4d2eg888ag606c48fdcf9f" version="1">A pistol with manually rotating barrels.</content>
+  <content contentuid="h7ea32fafg08d9g4495gb3b6g1258472dbce9" version="1">Blunderbuss</content>
+  <content contentuid="h2dac4300g1fb7g4958g8924g329cf1493fb3" version="1">An early shotgun</content>
+  <content contentuid="h5972a8afgfde1g4a5egae69g52e3bed1a10a" version="1">Firearm Proficiency</content>
+  <content contentuid="h23186039gdea0g46c7g9941gabea36377ce6" version="1">Gain Proficiency with Firearms</content>
+  <content contentuid="hb74bec0eg184fg46c4g844eg9da9d12cd629" version="1">Firearm Shot</content>
+  <content contentuid="h79d8c5a6gf483g4a41gabdbgba5ef67b3aa7" version="1">Fires a bullet from your firearm.</content>
+  <content contentuid="he0396c0dgf591g49dagbf53gcdfb4c077cb6" version="1">OffHand Firearm Shot</content>
+  <content contentuid="hb49664ddgc0b4g48adg80a4g06048d4fc743" version="1">Fires a bullet from your firearm.</content>
+  <content contentuid="h6e5d68a5g7e3eg4abegbba5g3c69a140632f" version="1">You've become well versed with firearms.</content>
+  <content contentuid="hcc693ffeg0de1g40ebgbe30g4c0f3f31c59d" version="1">Gunner</content>
+  <content contentuid="h1c932e1fg5fbbg422agae61g6a8d6e70122d" version="1">Gunner Point-Blank</content>
+  <content contentuid="hfdb89a55g41f4g4b4bg8444g71b04b37a56f" version="1">No longer suffer disadvantage from shooting in close range.</content>
+  <content contentuid="he4790f38gbdabg4ee7gac0bge6ef8f8404e5" version="1">Gunner Firearm Proficiency</content>
+  <content contentuid="hd747533dg7fc0g43caga6d4g962a22a70ccd" version="1">Gain Proficiency with Firearms (Slings)</content>
+  <content contentuid="h56c021efgc673g48a4g9d10g05d57436436b" version="1">Gunner Dexterity Bonus</content>
+  <content contentuid="h0f8bac57g32c2g472bg867cg6245e47fbe15" version="1">Gain a +1 to your Dexterity.</content>
+  <content contentuid="hef67ff37g76e5g4abdgb1e2g22ee4483193a" version="1">Repelling Shot</content>
+  <content contentuid="h7c7076cfgd1c9g4aacga991g9de218b15667" version="1">With a shot from the blunderbuss, you deal damage and knock the target back.</content>
+  <content contentuid="h9434ad19g8a2eg4433g8948g458271178f4a" version="1">Scatter Shot</content>
+  <content contentuid="hfa3d2d83g5f97g4757gafddg0c9bee182c5d" version="1">A blunderbuss shot that spreads out in front of you.</content>
+  <content contentuid="h73d38072g4cdeg4607g91b2g3ee3c96937d3" version="1">Sara's Chest of Boomsticks</content>
+  <content contentuid="h036ad279g348fg4716gb33dgeccc98808af1" version="1">A special selection of firearms inspired by Sara.</content>
+  <content contentuid="h5cbb645eg0a2dg4b0dg884bge5ff60c4565f" version="1">SCOB Pistol</content>
+  <content contentuid="h1a56b7a1g002bg4f0fga015gf4410178b1c2" version="1">Demo Text</content>
+  <content contentuid="h6157c598g19a6g4f75gbf74g4e4d5d112e42" version="1">Darkness Shot</content>
+  <content contentuid="h34af5d72g8c1cg446bg9380gabe07ffc5228" version="1">Fire a bullet, dealing damage and creating an area of darkness.</content>
+  <content contentuid="hfd21b5e8g53d5g4dedgbc57gc6a6115deed0" version="1">Burning Shot</content>
+  <content contentuid="hfd59634ag1c6eg4df9gbf96g5f147c4553dd" version="1">Fire a bullet, dealing damage and cauing a fire.</content>
+  <content contentuid="hcbe4e45egdbc2g421bg9d47g737f76df40b3" version="1">Aim</content>
+  <content contentuid="hec3f4fbdged73g4b1bg8f5ag44246d49c3ef" version="1">Forego your movement to ulock a shot with increased range and damage.</content>
+  <content contentuid="hccdd8e7bg8a37g46dbgb311g9db1290f1122" version="1">Long Range Shot</content>
+  <content contentuid="heaac488dg36f5g414egad10gd575bea417f0" version="1">Fire a bullet with twice the range and increased damage.</content>
+  <content contentuid="h5af63677g39c5g4705g976fg1d46dca86103" version="1">SCOB Musket</content>
+  <content contentuid="h240ed7dbg1f06g4f71g9334g648182e0de6a" version="1">Demo Text</content>
+</contentList>

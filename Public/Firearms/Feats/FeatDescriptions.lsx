@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="321"/>
+    <region id="FeatDescriptions">
+        <node id="root">
+            <children>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h6e5d68a5g7e3eg4abegbba5g3c69a140632f" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hcc693ffeg0de1g40ebgbe30g4c0f3f31c59d" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Gunner"/>
+                    <attribute id="FeatId" type="guid" value="a5f9cdb8-2b2a-4691-a2bf-0139bebec3e4"/>
+                    <attribute id="UUID" type="guid" value="8f08f549-3346-40bc-ad30-5aa4b5c918de"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
