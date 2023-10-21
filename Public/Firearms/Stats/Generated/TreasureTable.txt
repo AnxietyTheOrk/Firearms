@@ -62,8 +62,6 @@ new subtable "1,1"
 object category "I_ATO_Pepperbox",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ATO_Blunderbuss",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ATO_GunChest",1,0,0,0,0,0,0,0
 
 new treasuretable "ATO_GunChest_TT"
 new subtable "1,1"
@@ -144,6 +142,8 @@ object category "I_ATO_Burning_Bullet_Flintlock",1,0,0,0,0,0,0,0
 
 new treasuretable "ST_AllMartialRangedWeapons"
 CanMerge
+new subtable "1,1"
+object category "I_ATO_GunChest",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ATO_Flintlock",1,0,0,0,0,0,0,0
 new subtable "1,1"

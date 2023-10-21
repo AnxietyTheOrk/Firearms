@@ -750,8 +750,8 @@
 				</node>
 				<node id="GameObjects"> SCOB Flintlock
 					<attribute id="CanShootThrough" type="bool" value="True" />
-					<attribute id="Description" type="TranslatedString" handle="h1a56b7a1g002bg4f0fga015gf4410178b1c2" version="1" /> Points to Localization xml file. Generate new handle
-					<attribute id="DisplayName" type="TranslatedString" handle="h5cbb645eg0a2dg4b0dg884bge5ff60c4565f" version="1" /> Points to Localization xml file. Generate new handle
+					<attribute id="Description" type="TranslatedString" handle="h24829234g2844g458eg8f70g8a2419adf7eb" version="1" /> Points to Localization xml file. Generate new handle
+					<attribute id="DisplayName" type="TranslatedString" handle="h1b589d46gb54fg4f7dg839egf1c3516bd901" version="1" /> Points to Localization xml file. Generate new handle
 					<attribute id="EquipmentTypeID" type="guid" value="a177942e-e0fc-406e-b34e-5c9157b43aee" /> This determines the animations and how the weapon is held
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="Icon" type="FixedString" value="WPN_HUM_HeavyCrossbow_A_0" /> Keep the original icon, as the visuals have not been altered

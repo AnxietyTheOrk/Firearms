@@ -623,7 +623,7 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="67b680f6-560f-4a78-9d75-3dd5acb00f6c" />
-							<attribute id="ObjectID" type="FixedString" value="ATO_Flintlock.ATO_Flintlock_0_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="ATO_Flintlock.ATO_Flintlock.0" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
@@ -648,9 +648,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="Unassigned" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_Musket/Resources/ATO_Musket.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_SCOB_Musket/Resources/ATO_SCOB_Musket.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_Musket/Resources/ATO_Musket.Dummy_ATO_Musket.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_SCOB_Musket/Resources/ATO_SCOB_Musket.Dummy_ATO_SCOB_Musket.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
 					<children>
 						<node id="AnimationWaterfall">
@@ -660,7 +660,7 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="c606104b-2fda-4731-b8e2-b8a0cdee0b01" /> New UUID
-							<attribute id="ObjectID" type="FixedString" value="ATO_Musket.ATO_Musket_0_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="ATO_SCOB_Musket.ATO_SCOB_Musket.0" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
@@ -697,7 +697,7 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="dd4d162d-c632-47fb-b3b6-659e8ad6ef3d" /> New UUID
-							<attribute id="ObjectID" type="FixedString" value="ATO_Blunderbuss.ATO_Blunderbuss_0_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="ATO_Blunderbuss.ATO_Blunderbuss.0" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
@@ -771,7 +771,7 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="d2452b6d-ce26-448c-9b01-902822488425" />
-							<attribute id="ObjectID" type="FixedString" value="ATO_SCOB_Flintlock.ATO_Flintlock_0_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="ATO_SCOB_Flintlock.ATO_Flintlock.0" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
@@ -808,7 +808,7 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="7ed24091-e8cf-4798-8e46-e423e6be5b78" />
-							<attribute id="ObjectID" type="FixedString" value="ATO_SCOB_Musket.ATO_SCOB_Musket_0_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="ATO_SCOB_Musket.ATO_SCOB_Musket.0" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>

@@ -29,10 +29,10 @@ new entry "ATO_GunChest"
 type "Object"
 using "_Container"
 data "RootTemplate" "a670edd8-b9f0-407d-a32b-83aa254359ce"
-data "ValueOverride" "7"
+data "ValueOverride" "7000"
 data "Weight" "0.1"
-data "Rarity" "Rare"
-
+data "Rarity" "Legendary"
+data "Unique" "1"
 
 new entry "ATO_Bullet"
 type "Object"
