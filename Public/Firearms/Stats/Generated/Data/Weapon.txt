@@ -75,7 +75,6 @@ type "Weapon"
 using "_Firearm_Pistol"
 data "Damage" "2d10"
 data "RootTemplate" "2ea329b0-bca8-4ba9-ad8f-544d72d1709f"
-data "ValueUUID" "Find one"f0e7be35-8be4-483d-afa8-dc9a104ea758
 data "Weight" "1.5"
 data "ValueOverride" "2000"
 data "Rarity" "Legendary"
@@ -84,13 +83,13 @@ data "BoostsOnEquipMainHand" "AttackSpellOverride(Main-Hand Firearm Attack, Proj
 data "BoostsOnEquipOffHand" "AttackSpellOverride(Off-Hand Firearm Attack, Projectile_OffhandAttack);UnlockSpell(ATO_ArchersEye);UnlockSpell(ATO_BulletOfDarkness)"
 data "BoostsOnEquip" "UnlockSpell(ATO_ArchersEye);UnlockSpell(ATO_BulletOfDarkness);ApplyStatus(ATO_Superior_Darkvision)"
 data "Unique" "1"
+data "DefaultBoosts" "WeaponProperty(Magical)"
 
 new entry "ATO_SCOB_Flintlock_2"
 type "Weapon"
 using "_Firearm_Pistol"
 data "Damage" "2d10"
 data "RootTemplate" "d4b66f44-3255-4458-afff-d8e611a4e3a9"
-data "ValueUUID" "Find one"f0e7be35-8be4-483d-afa8-dc9a104ea758
 data "Weight" "1.5"
 data "ValueOverride" "2000"
 data "Rarity" "Legendary"
@@ -99,6 +98,7 @@ data "BoostsOnEquipMainHand" "AttackSpellOverride(Main-Hand Firearm Attack, Proj
 data "BoostsOnEquipOffHand" "AttackSpellOverride(Off-Hand Firearm Attack, Projectile_OffhandAttack);UnlockSpell(ATO_ArchersEye);UnlockSpell(ATO_BulletOfFire)"
 data "BoostsOnEquip" "UnlockSpell(ATO_ArchersEye);UnlockSpell(ATO_BulletOfFire);ApplyStatus(ATO_Fire_Immunity)"
 data "Unique" "1"
+data "DefaultBoosts" "WeaponProperty(Magical)"
 
 new entry "ATO_Musket"
 type "Weapon"
@@ -146,6 +146,7 @@ data "Rarity" "Legendary"
 data "Unique" "1"
 data "PassivesOnEquip" "ATO_Marksman_Guns_Passive;"
 data "BoostsOnEquipMainHand" "AttackSpellOverride(Main-Hand Firearm Attack, Projectile_MainHandAttack);AttackSpellOverride(ATO_SneakAttack, Projectile_SneakAttack);UnlockSpell(ATO_Aim);UnlockSpell(ATO_PinDown)"
+data "DefaultBoosts" "WeaponProperty(Magical)"
 
 new entry "ATO_Palm_Pistol"
 type "Weapon"

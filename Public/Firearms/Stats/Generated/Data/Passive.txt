@@ -32,7 +32,7 @@ data "Boosts" "Proficiency(Slings)"
 
 new entry "ATO_Aim_Passive"
 type "PassiveData"
-data "DescriptionParams" "1;Distance(20)"
+data "DescriptionParams" ""
 data "DisplayName" "TODO;1"
 data "Description" "TODO;1"
 data "Boosts" "RollBonus(Attack,-5)"
