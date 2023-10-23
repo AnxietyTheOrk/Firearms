@@ -19,7 +19,7 @@ data "BoostsOnEquipMainHand" "AttackSpellOverride(Main-Hand Firearm Attack, Proj
 data "BoostsOnEquipOffHand" "AttackSpellOverride(Off-Hand Firearm Attack, Projectile_OffhandAttack)"
 data "StatusOnEquip" "HANDLE_CANNON_OH_RANGED_MH"
 
-new entry"_Firearm_LongGun"
+new entry "_Firearm_LongGun"
 type "Weapon"
 using "_Firearm"
 data "Damage" "1d12"
