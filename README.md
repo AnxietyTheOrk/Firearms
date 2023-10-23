@@ -7,4 +7,4 @@ Formerly 5e Firearms
  <br>
  Reloading
  <br>
- Beyonets
+ Bayonets
