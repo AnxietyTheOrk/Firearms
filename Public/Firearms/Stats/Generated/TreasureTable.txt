@@ -28,9 +28,6 @@ new subtable "1,1"
 object category "I_ATO_Pepperbox",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ATO_Blunderbuss",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ATO_GunChest",1,0,0,0,0,0,0,0
-
 
 new treasuretable "TUT_Chest"
 CanMerge 1
