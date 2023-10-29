@@ -1,0 +1,11 @@
+function HasFirearmEquipped(entity)
+    local entity = entity or context.Source
+    local weaponMainHand = GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand, entity)
+    local weaponOffHand = GetItemInEquipmentSlot(EquipmentSlot.RangedOffHand, entity)
+
+    if (IsWeaponOfProficiencyGroup('Slings', weaponMainHand).Result or IsWeaponOfProficiencyGroup('Slings', weaponOffHand).Result) then
+        return ConditionResult(true)
+    end
+
+    return ConditionResult(false)
+end

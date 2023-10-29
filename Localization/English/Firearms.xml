@@ -56,4 +56,22 @@
   <content contentuid="h4ec46fc3ge3c4g4dc4gb202gaa433d9e0b3c" version="1">Immunity to Fire</content>
   <content contentuid="h1a628ff7g0cf7g4d06gb084g87ba0231c82f" version="1">Superior Darkvision</content>
   <content contentuid="ha730aa28gab18g4329gb254g8ee1327708f0" version="1">Superior Darkvision</content>
+  <content contentuid="h960459cbgff1fg4697gb9a2g80606d2cc728" version="1">Main-hand Ammo</content>
+  <content contentuid="h3aeb341fge990g409dgac12g662c1f61732c" version="1">Number of Shots remaining before you need to reload your main firearm.</content>
+  <content contentuid="h2bb20078gf31eg4f02gb80cg06bfd0a620c4" version="1">Off-hand Ammo</content>
+  <content contentuid="h991ca10dg0a6dg41d5ga6e8gbbeeb8167f84" version="1">Number of Shots remaining before you need to reload your off-hand firearm.</content>
+  <content contentuid="hd2d5dbbag1cebg43eag8122g774caf27edb0" version="1">Longarm Ammo</content>
+  <content contentuid="h45ffcacfg2980g46ccg871fgb7cc0e51a00f" version="1">Number of Shots remaining before you need to reload your longarms.</content>
+  <content contentuid="h31c50188g96b7g4eb0gacbeg229739193901" version="1">Main-hand Reload</content>
+  <content contentuid="h1bf007a4gdbaeg4274g86fcg0c25896edd3b" version="1">Reloads the firearm in your main-hand.</content>
+  <content contentuid="hb37d1777gb604g4336gaa01gcdc8cce70e15" version="1">Off-hand Reload</content>
+  <content contentuid="hfe3552dcg9244g4ee0gb783gdb8df4eaa156" version="1">Reloads the firearm in your off-hand</content>
+  <content contentuid="h6a0eb232g006bg4b09g99cbgef43437d19ab" version="1">Full Reload</content>
+  <content contentuid="h3147f598gc1fag46b2g8715g136fc17d2439" version="1">Reloads both firearms simultaneously.</content>
+  <content contentuid="h80cf339dg28efg48feg8494g3bef2b99b6c7" version="1">Longarm Reload</content>
+  <content contentuid="h2f2ed633gab74g4914g9388gb93dcd225109" version="1">Reloads longarms simultaneously.</content>
+  <content contentuid="hebf1acbfgf1f8g4ad5gaf9eg29f00e83eeec" version="1">Tactical Gunner</content>
+  <content contentuid="heb272209g132eg4bb1ga2e5g44f9cc6f5be9" version="1">A Feat improving your reload times from Quick Hands.</content>
+  <content contentuid="h468e6c2bg5632g472eg8b1agcd2e3a0ebfe0" version="1">Quick Hands</content>
+  <content contentuid="h66d07e9fgb559g4da4g9a7cg081fa5907254" version="1">Decrease reload times.</content>
 </contentList>

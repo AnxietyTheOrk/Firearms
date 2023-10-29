@@ -11,6 +11,13 @@
                     <attribute id="FeatId" type="guid" value="a5f9cdb8-2b2a-4691-a2bf-0139bebec3e4"/>
                     <attribute id="UUID" type="guid" value="8f08f549-3346-40bc-ad30-5aa4b5c918de"/>
                 </node>
+                <node id="FeatDescription">
+                    <attribute id="Description" type="TranslatedString" handle="heb272209g132eg4bb1ga2e5g44f9cc6f5be9" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hebf1acbfgf1f8g4ad5gaf9eg29f00e83eeec" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Tactical Gunner"/>
+                    <attribute id="FeatId" type="guid" value="fff88e53-5d7c-44bd-861f-0716b37e1275"/>
+                    <attribute id="UUID" type="guid" value="34f2ef04-5da0-4a3d-ae0a-0a2d41883d35"/>
+                </node>
             </children>
         </node>
     </region>

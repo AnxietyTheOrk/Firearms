@@ -1,0 +1,18 @@
+new entry "_ATO_Ring_Magic"
+type "Armor"
+using "ARM_Ring"
+data "Level" "1"
+data "ValueUUID" "cdc711a8-7fed-48c5-8fac-e260cefc671f"
+data "Rarity" "Uncommon"
+data "PassivesOnEquip" "ATO_Marksman_Guns_Passive"
+
+new entry "ATO_MarksmansRing"
+type "Object"
+using "_ATO_Ring_Magic"
+data "RootTemplate" "340de2d8-fd33-454c-a5fb-43bdee52d57f"
+
+new entry "ATO_MarksmansRing_1"
+type "Object"
+using "_ATO_Ring_Magic"
+data "RootTemplate" "17b0e1ac-e889-4eda-81bb-c15cb0228b60"
+data "Boosts" "ATO_Dex_Boost"

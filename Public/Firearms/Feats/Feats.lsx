@@ -10,6 +10,12 @@
                     <attribute id="PassivesAdded" type="LSString" value="Gunner_PointBlank;Gunner_Proficiencies;Gunner_PassiveBonus"/>
                     <attribute id="UUID" type="guid" value="a5f9cdb8-2b2a-4691-a2bf-0139bebec3e4"/>
                 </node>
+                <node id="Feat">
+					<attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Tactical Gunner"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Tactical_Gunner_Passive"/>
+                    <attribute id="UUID" type="guid" value="fff88e53-5d7c-44bd-861f-0716b37e1275"/>
+                </node>
             </children>
         </node>
     </region>

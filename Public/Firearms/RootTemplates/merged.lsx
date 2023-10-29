@@ -516,7 +516,7 @@
 					<attribute id="Stats" type="FixedString" value="ATO_Pepperbox" /> Stats for the Weapon.txt
 					<attribute id="Tooltip" type="uint8" value="2" />
 					<attribute id="Type" type="FixedString" value="item" />
-					<attribute id="VisualTemplate" type="FixedString" value="7c87c4aa-5597-ce62-795b-e5a249383618" /> For weapons this determines the 3D model and texture used. So all visuals.
+					<attribute id="VisualTemplate" type="FixedString" value="6d0a11cb-bd99-4922-9408-5e34a5fe0c6b" /> For weapons this determines the 3D model and texture used. So all visuals.
 					<attribute id="WalkThrough" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
 					<children>
@@ -870,6 +870,36 @@
 						</node>
 					</children>
 				</node>
+				<node id="GameObjects">
+                    <attribute id="Description" type="TranslatedString" handle="TODO" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="TODO" version="1" />
+                    <attribute id="Icon" type="FixedString" value="FIND OR MAKE A RING" />
+                    <attribute id="LevelName" type="FixedString" value="" />
+                    <attribute id="MapKey" type="FixedString" value="340de2d8-fd33-454c-a5fb-43bdee52d57f" />
+                    <attribute id="Name" type="LSString" value="ATO_MarksmansRing" />
+                    <attribute id="ParentTemplateId" type="FixedString" value="a9f741f6-a758-47ea-bb21-9a37d3ddfe42" />
+                    <attribute id="Stats" type="FixedString" value="ATO_MarksmansRing" />
+                    <attribute id="Type" type="FixedString" value="item" />
+                    <attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+                    <children>
+                        <node id="GameMaster"/>
+                    </children>
+                </node>
+				<node id="GameObjects">
+                    <attribute id="Description" type="TranslatedString" handle="TODO" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="TODO" version="1" />
+                    <attribute id="Icon" type="FixedString" value="FIND OR MAKE A RING" />
+                    <attribute id="LevelName" type="FixedString" value="" />
+                    <attribute id="MapKey" type="FixedString" value="17b0e1ac-e889-4eda-81bb-c15cb0228b60" />
+                    <attribute id="Name" type="LSString" value="ATO_MarksmansRing_1" />
+                    <attribute id="ParentTemplateId" type="FixedString" value="a9f741f6-a758-47ea-bb21-9a37d3ddfe42" />
+                    <attribute id="Stats" type="FixedString" value="ATO_MarksmansRing_1" />
+                    <attribute id="Type" type="FixedString" value="item" />
+                    <attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+                    <children>
+                        <node id="GameMaster"/>
+                    </children>
+                </node>
 			</children>
 		</node>
 	</region>
