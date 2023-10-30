@@ -10,7 +10,7 @@
 					<attribute id="DisplayName" type="TranslatedString" handle="h900372b6gf1dfg47cdg855bg2b80d92796c6" version="2" /> Points to Localization xml file. Generate new handle
 					<attribute id="EquipmentTypeID" type="guid" value="a177942e-e0fc-406e-b34e-5c9157b43aee" /> This determines the animations and how the weapon is held
 					<attribute id="Flag" type="int32" value="0" />
-					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_HandCrossbow_A_0" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="Icon" type="FixedString" value="ATO_Flintlock" /> Keep the original icon, as the visuals have not been altered
 					<attribute id="IsInspector" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="LevelOverride" type="int32" value="-1" />
@@ -71,7 +71,7 @@
 					<attribute id="DisplayName" type="TranslatedString" handle="h900372b6gf1dfg47cdg855bg2b80d92796c6" version="2" /> Points to Localization xml file. Generate new handle
 					<attribute id="EquipmentTypeID" type="guid" value="87fbc05b-c870-4bc1-95fb-56ea3fcb9e22" /> This determines the animations and how the weapon is held
 					<attribute id="Flag" type="int32" value="0" />
-					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_HandCrossbow_A_0" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="Icon" type="FixedString" value="ATO_Flintlock" /> Keep the original icon, as the visuals have not been altered
 					<attribute id="IsInspector" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="LevelOverride" type="int32" value="-1" />
@@ -132,7 +132,7 @@
 					<attribute id="DisplayName" type="TranslatedString" handle="h900372b6gf1dfg47cdg855bg2b80d92796c6" version="2" /> Points to Localization xml file. Generate new handle
 					<attribute id="EquipmentTypeID" type="guid" value="87fbc05b-c870-4bc1-95fb-56ea3fcb9e22" /> This determines the animations and how the weapon is held
 					<attribute id="Flag" type="int32" value="0" />
-					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_HandCrossbow_A_0" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="Icon" type="FixedString" value="ATO_Flintlock" /> Keep the original icon, as the visuals have not been altered
 					<attribute id="IsInspector" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="LevelOverride" type="int32" value="-1" />
@@ -193,7 +193,7 @@
 					<attribute id="DisplayName" type="TranslatedString" handle="h900372b6gf1dfg47cdg855bg2b80d92796c6" version="2" /> Points to Localization xml file. Generate new handle
 					<attribute id="EquipmentTypeID" type="guid" value="87fbc05b-c870-4bc1-95fb-56ea3fcb9e22" /> This determines the animations and how the weapon is held
 					<attribute id="Flag" type="int32" value="0" />
-					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_HandCrossbow_A_0" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="Icon" type="FixedString" value="ATO_Flintlock" /> Keep the original icon, as the visuals have not been altered
 					<attribute id="IsInspector" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="LevelOverride" type="int32" value="-1" />
@@ -254,7 +254,7 @@
 					<attribute id="DisplayName" type="TranslatedString" handle="h73db274eg21d2g4aeeg9f3fg7b258408c289" version="2" /> Points to Localization xml file. Generate new handle
 					<attribute id="EquipmentTypeID" type="guid" value="edda8fbb-6456-4514-b3cc-36a2bc674c31" /> This determines the animations and how the weapon is held
 					<attribute id="Flag" type="int32" value="0" />
-					<attribute id="Icon" type="FixedString" value="WPN_HUM_HeavyCrossbow_A_0" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="Icon" type="FixedString" value="ATO_Musket" /> Keep the original icon, as the visuals have not been altered
 					<attribute id="IsInspector" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="LevelOverride" type="int32" value="-1" />
@@ -301,7 +301,7 @@
 					<attribute id="DisplayName" type="TranslatedString" handle="h73db274eg21d2g4aeeg9f3fg7b258408c289" version="2" /> Points to Localization xml file. Generate new handle
 					<attribute id="EquipmentTypeID" type="guid" value="edda8fbb-6456-4514-b3cc-36a2bc674c31" /> This determines the animations and how the weapon is held
 					<attribute id="Flag" type="int32" value="0" />
-					<attribute id="Icon" type="FixedString" value="WPN_HUM_HeavyCrossbow_A_0" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="Icon" type="FixedString" value="ATO_Musket" /> Keep the original icon, as the visuals have not been altered
 					<attribute id="IsInspector" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="LevelOverride" type="int32" value="-1" />
@@ -348,7 +348,7 @@
 					<attribute id="DisplayName" type="TranslatedString" handle="h73db274eg21d2g4aeeg9f3fg7b258408c289" version="2" /> Points to Localization xml file. Generate new handle
 					<attribute id="EquipmentTypeID" type="guid" value="edda8fbb-6456-4514-b3cc-36a2bc674c31" /> This determines the animations and how the weapon is held
 					<attribute id="Flag" type="int32" value="0" />
-					<attribute id="Icon" type="FixedString" value="WPN_HUM_HeavyCrossbow_A_0" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="Icon" type="FixedString" value="ATO_Musket" /> Keep the original icon, as the visuals have not been altered
 					<attribute id="IsInspector" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="LevelOverride" type="int32" value="-1" />
@@ -395,7 +395,7 @@
 					<attribute id="DisplayName" type="TranslatedString" handle="h73db274eg21d2g4aeeg9f3fg7b258408c289" version="2" /> Points to Localization xml file. Generate new handle
 					<attribute id="EquipmentTypeID" type="guid" value="edda8fbb-6456-4514-b3cc-36a2bc674c31" /> This determines the animations and how the weapon is held
 					<attribute id="Flag" type="int32" value="0" />
-					<attribute id="Icon" type="FixedString" value="WPN_HUM_HeavyCrossbow_A_0" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="Icon" type="FixedString" value="ATO_Musket" /> Keep the original icon, as the visuals have not been altered
 					<attribute id="IsInspector" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="LevelOverride" type="int32" value="-1" />
@@ -503,7 +503,7 @@
 					<attribute id="DisplayName" type="TranslatedString" handle="h0f2f3579g16b9g4399ga6a3gca20c7daa622" version="2" /> Points to Localization xml file. Generate new handle
 					<attribute id="EquipmentTypeID" type="guid" value="87fbc05b-c870-4bc1-95fb-56ea3fcb9e22" /> This determines the animations and how the weapon is held
 					<attribute id="Flag" type="int32" value="0" />
-					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_HandCrossbow_A_0" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="Icon" type="FixedString" value="ATO_Pepperbox" /> Keep the original icon, as the visuals have not been altered
 					<attribute id="IsInspector" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="LevelOverride" type="int32" value="-1" />
@@ -564,7 +564,7 @@
 					<attribute id="DisplayName" type="TranslatedString" handle="h7ea32fafg08d9g4495gb3b6g1258472dbce9" version="2" /> Points to Localization xml file. Generate new handle
 					<attribute id="EquipmentTypeID" type="guid" value="edda8fbb-6456-4514-b3cc-36a2bc674c31" /> This determines the animations and how the weapon is held
 					<attribute id="Flag" type="int32" value="0" />
-					<attribute id="Icon" type="FixedString" value="WPN_HUM_HeavyCrossbow_A_0" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="Icon" type="FixedString" value="ATO_Blunderbuss" /> Keep the original icon, as the visuals have not been altered
 					<attribute id="IsInspector" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="LevelOverride" type="int32" value="-1" />
@@ -608,7 +608,7 @@
 				<node id="GameObjects"> GunChest
 					<attribute id="Description" type="TranslatedString" handle="h036ad279g348fg4716gb33dgeccc98808af1" version="1" /> Points to Localization xml file. Generate new handle
 					<attribute id="DisplayName" type="TranslatedString" handle="h73d38072g4cdeg4607g91b2g3ee3c96937d3" version="1" /> Points to Localization xml file. Generate new handle
-					<attribute id="Icon" type="FixedString" value="Item_GEN_Chest_Wood_Painted_A" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="Icon" type="FixedString" value="GunChest" /> Keep the original icon, as the visuals have not been altered
 					<attribute id="InventoryType" type="uint8" value="24" />
 					<attribute id="IsInspector" type="bool" value="False" />
 					<attribute id="LevelName" type="FixedString" value="" />
@@ -693,7 +693,7 @@
 					<attribute id="DisplayName" type="TranslatedString" handle="h5cbb645eg0a2dg4b0dg884bge5ff60c4565f" version="1" /> Points to Localization xml file. Generate new handle
 					<attribute id="EquipmentTypeID" type="guid" value="a177942e-e0fc-406e-b34e-5c9157b43aee" /> This determines the animations and how the weapon is held
 					<attribute id="Flag" type="int32" value="0" />
-					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_HandCrossbow_A_0" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="Icon" type="FixedString" value="ATO_SCOB_Flintlock" /> Keep the original icon, as the visuals have not been altered
 					<attribute id="IsInspector" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="LevelOverride" type="int32" value="-1" />
@@ -754,7 +754,7 @@
 					<attribute id="DisplayName" type="TranslatedString" handle="h1b589d46gb54fg4f7dg839egf1c3516bd901" version="1" /> Points to Localization xml file. Generate new handle
 					<attribute id="EquipmentTypeID" type="guid" value="a177942e-e0fc-406e-b34e-5c9157b43aee" /> This determines the animations and how the weapon is held
 					<attribute id="Flag" type="int32" value="0" />
-					<attribute id="Icon" type="FixedString" value="WPN_HUM_HeavyCrossbow_A_0" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="Icon" type="FixedString" value="ATO_SCOB_Flintlock" /> Keep the original icon, as the visuals have not been altered
 					<attribute id="IsInspector" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="LevelOverride" type="int32" value="-1" />
@@ -815,7 +815,7 @@
 					<attribute id="DisplayName" type="TranslatedString" handle="h5af63677g39c5g4705g976fg1d46dca86103" version="1" /> Points to Localization xml file. Generate new handle
 					<attribute id="EquipmentTypeID" type="guid" value="edda8fbb-6456-4514-b3cc-36a2bc674c31" /> This determines the animations and how the weapon is held
 					<attribute id="Flag" type="int32" value="0" />
-					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_HandCrossbow_A_0" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="Icon" type="FixedString" value="ATO_SCOB_Musket" /> Keep the original icon, as the visuals have not been altered
 					<attribute id="IsInspector" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="LevelOverride" type="int32" value="-1" />
