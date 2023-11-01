@@ -608,7 +608,7 @@
 				<node id="GameObjects"> GunChest
 					<attribute id="Description" type="TranslatedString" handle="h036ad279g348fg4716gb33dgeccc98808af1" version="1" /> Points to Localization xml file. Generate new handle
 					<attribute id="DisplayName" type="TranslatedString" handle="h73d38072g4cdeg4607g91b2g3ee3c96937d3" version="1" /> Points to Localization xml file. Generate new handle
-					<attribute id="Icon" type="FixedString" value="GunChest" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="Icon" type="FixedString" value="ATO_GunChest" /> Keep the original icon, as the visuals have not been altered
 					<attribute id="InventoryType" type="uint8" value="24" />
 					<attribute id="IsInspector" type="bool" value="False" />
 					<attribute id="LevelName" type="FixedString" value="" />
