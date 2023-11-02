@@ -22,7 +22,7 @@
                     <attribute id="Tags" type="LSString" value=""/>
                     <attribute id="Type" type="FixedString" value="Add-on"/>
 					<attribute id="UUID" type="FixedString" value="6cde95a8-2682-4645-9b38-2964962fe8e0"/> Generate new UUID
-					<attribute id="Version" type="int64" value="72057596185411584"/> Version number for Mod Manager to read
+					<attribute id="Version" type="int64" value="72057596185411585"/> Version number for Mod Manager to read
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version" type="int64" value="36169538802286592"/> Unique Version Number for this mod.
