@@ -442,7 +442,7 @@
 					<attribute id="DisplayName" type="TranslatedString" handle="h25cab903g84d4g41b5g8c0dge75495ae7ed9" version="2" /> Points to Localization xml file. Generate new handle
 					<attribute id="EquipmentTypeID" type="guid" value="87fbc05b-c870-4bc1-95fb-56ea3fcb9e22" /> This determines the animations and how the weapon is held
 					<attribute id="Flag" type="int32" value="0" />
-					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_HandCrossbow_A_0" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="Icon" type="FixedString" value="ATO_PalmPistol" /> Keep the original icon, as the visuals have not been altered
 					<attribute id="IsInspector" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="LevelOverride" type="int32" value="-1" />
@@ -455,7 +455,190 @@
 					<attribute id="Stats" type="FixedString" value="ATO_Palm_Pistol" /> Stats for the Weapon.txt
 					<attribute id="Tooltip" type="uint8" value="2" />
 					<attribute id="Type" type="FixedString" value="item" />
-					<attribute id="VisualTemplate" type="FixedString" value="7c87c4aa-5597-ce62-795b-e5a249383618" /> For weapons this determines the 3D model and texture used. So all visuals.
+					<attribute id="VisualTemplate" type="FixedString" value="0c932bea-374c-4431-aac4-4cae8c38615c" /> For weapons this determines the 3D model and texture used. So all visuals.
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="eee3ae27-dc6c-4fc9-4592-0c710c796c39" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="FIREARM_MOD_STATUS" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects"> Palm Pistol +1
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="h04e90a49g04c1g4574gb0fbg5189b2301531" version="2" /> Points to Localization xml file. Generate new handle
+					<attribute id="DisplayName" type="TranslatedString" handle="h25cab903g84d4g41b5g8c0dge75495ae7ed9" version="2" /> Points to Localization xml file. Generate new handle
+					<attribute id="EquipmentTypeID" type="guid" value="87fbc05b-c870-4bc1-95fb-56ea3fcb9e22" /> This determines the animations and how the weapon is held
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="ATO_PalmPistol" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="72d438ee-c0ad-4051-9dd5-65de41471836" /> Same UUID as in Weapon.txt. Generate new UUID
+					<attribute id="Name" type="LSString" value="ATO_Palm_Pistol_1" /> Same as Stats
+					<attribute id="ParentTemplateId" type="FixedString" value="f44c9c6f-bc71-42ad-9cad-2dae306e750e" /> Points to WPN_HandCrossbow in Shared.PAK's RootTemplate
+					<attribute id="PhysicsTemplate" type="FixedString" value="0f5b541a-5aa4-56e3-b4b9-9426f6b6989b" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="ATO_Palm_Pistol_1" /> Stats for the Weapon.txt
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="0c932bea-374c-4431-aac4-4cae8c38615c" /> For weapons this determines the 3D model and texture used. So all visuals.
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="eee3ae27-dc6c-4fc9-4592-0c710c796c39" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="FIREARM_MOD_STATUS" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects"> Palm Pistol +2
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="h04e90a49g04c1g4574gb0fbg5189b2301531" version="2" /> Points to Localization xml file. Generate new handle
+					<attribute id="DisplayName" type="TranslatedString" handle="h25cab903g84d4g41b5g8c0dge75495ae7ed9" version="2" /> Points to Localization xml file. Generate new handle
+					<attribute id="EquipmentTypeID" type="guid" value="87fbc05b-c870-4bc1-95fb-56ea3fcb9e22" /> This determines the animations and how the weapon is held
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="ATO_PalmPistol" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="e7d4a142-82a6-4310-ab7b-3192b8b198ff" /> Same UUID as in Weapon.txt. Generate new UUID
+					<attribute id="Name" type="LSString" value="ATO_Palm_Pistol_2" /> Same as Stats
+					<attribute id="ParentTemplateId" type="FixedString" value="f44c9c6f-bc71-42ad-9cad-2dae306e750e" /> Points to WPN_HandCrossbow in Shared.PAK's RootTemplate
+					<attribute id="PhysicsTemplate" type="FixedString" value="0f5b541a-5aa4-56e3-b4b9-9426f6b6989b" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="ATO_Palm_Pistol_2" /> Stats for the Weapon.txt
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="0c932bea-374c-4431-aac4-4cae8c38615c" /> For weapons this determines the 3D model and texture used. So all visuals.
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="eee3ae27-dc6c-4fc9-4592-0c710c796c39" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="FIREARM_MOD_STATUS" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects"> Palm Pistol +3
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="h04e90a49g04c1g4574gb0fbg5189b2301531" version="2" /> Points to Localization xml file. Generate new handle
+					<attribute id="DisplayName" type="TranslatedString" handle="h25cab903g84d4g41b5g8c0dge75495ae7ed9" version="2" /> Points to Localization xml file. Generate new handle
+					<attribute id="EquipmentTypeID" type="guid" value="87fbc05b-c870-4bc1-95fb-56ea3fcb9e22" /> This determines the animations and how the weapon is held
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="ATO_PalmPistol" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="90bcb28c-c73b-4469-a1f6-70425d4e4756" /> Same UUID as in Weapon.txt. Generate new UUID
+					<attribute id="Name" type="LSString" value="ATO_Palm_Pistol_3" /> Same as Stats
+					<attribute id="ParentTemplateId" type="FixedString" value="f44c9c6f-bc71-42ad-9cad-2dae306e750e" /> Points to WPN_HandCrossbow in Shared.PAK's RootTemplate
+					<attribute id="PhysicsTemplate" type="FixedString" value="0f5b541a-5aa4-56e3-b4b9-9426f6b6989b" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="ATO_Palm_Pistol_3" /> Stats for the Weapon.txt
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="0c932bea-374c-4431-aac4-4cae8c38615c" /> For weapons this determines the 3D model and texture used. So all visuals.
 					<attribute id="WalkThrough" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
 					<children>
@@ -535,13 +718,168 @@
 							</children>
 						</node>
 						<node id="GameMaster" />
-						<node id="InventoryList">
+						<node id="OnDestroyActions">
 							<children>
-								<node id="InventoryItem">
-									<attribute id="Object" type="FixedString" value="Empty" />
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
 								</node>
 							</children>
 						</node>
+					</children>
+				</node>
+				<node id="GameObjects"> Pepperbox +1
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="ha529a62bga422g4d2eg888ag606c48fdcf9f" version="2" /> Points to Localization xml file. Generate new handle
+					<attribute id="DisplayName" type="TranslatedString" handle="h0f2f3579g16b9g4399ga6a3gca20c7daa622" version="2" /> Points to Localization xml file. Generate new handle
+					<attribute id="EquipmentTypeID" type="guid" value="87fbc05b-c870-4bc1-95fb-56ea3fcb9e22" /> This determines the animations and how the weapon is held
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="ATO_Pepperbox" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="6d6348e6-5c11-4c53-8425-b5603c6aef9e" /> Same UUID as in Weapon.txt. Generate new UUID
+					<attribute id="Name" type="LSString" value="ATO_Pepperbox_1" /> Same as Stats
+					<attribute id="ParentTemplateId" type="FixedString" value="f44c9c6f-bc71-42ad-9cad-2dae306e750e" /> Points to WPN_HandCrossbow in Shared.PAK's RootTemplate
+					<attribute id="PhysicsTemplate" type="FixedString" value="0f5b541a-5aa4-56e3-b4b9-9426f6b6989b" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="ATO_Pepperbox_1" /> Stats for the Weapon.txt
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="6d0a11cb-bd99-4922-9408-5e34a5fe0c6b" /> For weapons this determines the 3D model and texture used. So all visuals.
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="eee3ae27-dc6c-4fc9-4592-0c710c796c39" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="FIREARM_MOD_STATUS" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects"> Pepperbox +2
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="ha529a62bga422g4d2eg888ag606c48fdcf9f" version="2" /> Points to Localization xml file. Generate new handle
+					<attribute id="DisplayName" type="TranslatedString" handle="h0f2f3579g16b9g4399ga6a3gca20c7daa622" version="2" /> Points to Localization xml file. Generate new handle
+					<attribute id="EquipmentTypeID" type="guid" value="87fbc05b-c870-4bc1-95fb-56ea3fcb9e22" /> This determines the animations and how the weapon is held
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="ATO_Pepperbox" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="08a532fb-2e8b-4c3e-9b95-585a49bbf0dc" /> Same UUID as in Weapon.txt. Generate new UUID
+					<attribute id="Name" type="LSString" value="ATO_Pepperbox_2" /> Same as Stats
+					<attribute id="ParentTemplateId" type="FixedString" value="f44c9c6f-bc71-42ad-9cad-2dae306e750e" /> Points to WPN_HandCrossbow in Shared.PAK's RootTemplate
+					<attribute id="PhysicsTemplate" type="FixedString" value="0f5b541a-5aa4-56e3-b4b9-9426f6b6989b" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="ATO_Pepperbox_2" /> Stats for the Weapon.txt
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="6d0a11cb-bd99-4922-9408-5e34a5fe0c6b" /> For weapons this determines the 3D model and texture used. So all visuals.
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="eee3ae27-dc6c-4fc9-4592-0c710c796c39" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="FIREARM_MOD_STATUS" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects"> Pepperbox +3
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="ha529a62bga422g4d2eg888ag606c48fdcf9f" version="2" /> Points to Localization xml file. Generate new handle
+					<attribute id="DisplayName" type="TranslatedString" handle="h0f2f3579g16b9g4399ga6a3gca20c7daa622" version="2" /> Points to Localization xml file. Generate new handle
+					<attribute id="EquipmentTypeID" type="guid" value="87fbc05b-c870-4bc1-95fb-56ea3fcb9e22" /> This determines the animations and how the weapon is held
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="ATO_Pepperbox" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="14208589-8cae-4cec-b241-58464768c8b1" /> Same UUID as in Weapon.txt. Generate new UUID
+					<attribute id="Name" type="LSString" value="ATO_Pepperbox_3" /> Same as Stats
+					<attribute id="ParentTemplateId" type="FixedString" value="f44c9c6f-bc71-42ad-9cad-2dae306e750e" /> Points to WPN_HandCrossbow in Shared.PAK's RootTemplate
+					<attribute id="PhysicsTemplate" type="FixedString" value="0f5b541a-5aa4-56e3-b4b9-9426f6b6989b" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="ATO_Pepperbox_3" /> Stats for the Weapon.txt
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="6d0a11cb-bd99-4922-9408-5e34a5fe0c6b" /> For weapons this determines the 3D model and texture used. So all visuals.
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="eee3ae27-dc6c-4fc9-4592-0c710c796c39" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="FIREARM_MOD_STATUS" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
 						<node id="OnDestroyActions">
 							<children>
 								<node id="Action">
@@ -582,13 +920,126 @@
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
 					<children>
 						<node id="GameMaster" />
-						<node id="InventoryList">
+						<node id="OnDestroyActions">
 							<children>
-								<node id="InventoryItem">
-									<attribute id="Object" type="FixedString" value="Empty" />
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
 								</node>
 							</children>
 						</node>
+					</children>
+				</node>
+				<node id="GameObjects"> Blunderbuss
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="h2dac4300g1fb7g4958g8924g329cf1493fb3" version="2" /> Points to Localization xml file. Generate new handle
+					<attribute id="DisplayName" type="TranslatedString" handle="h7ea32fafg08d9g4495gb3b6g1258472dbce9" version="2" /> Points to Localization xml file. Generate new handle
+					<attribute id="EquipmentTypeID" type="guid" value="edda8fbb-6456-4514-b3cc-36a2bc674c31" /> This determines the animations and how the weapon is held
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="ATO_Blunderbuss" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="2f9ee0dc-4f9f-4efa-9acb-0b169424c19f" /> Same UUID as in Weapon.txt. Generate new UUID
+					<attribute id="Name" type="LSString" value="ATO_Blunderbuss_1" /> Same as Stats
+					<attribute id="ParentTemplateId" type="FixedString" value="f44c9c6f-bc71-42ad-9cad-2dae306e750e" /> Points to WPN_HeavyCrossbow_1 in Shared.PAK's RootTemplate
+					<attribute id="PhysicsTemplate" type="FixedString" value="c4ea7ee4-38c9-4ced-a086-3aff9345cb9a" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="ATO_Blunderbuss_1" /> Stats for the Weapon.txt
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="201b991d-51ee-4221-9a8c-900b9b291a30" /> For weapons this determines the 3D model and texture used. So all visuals.
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="GameMaster" />
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects"> Blunderbuss +2
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="h2dac4300g1fb7g4958g8924g329cf1493fb3" version="2" /> Points to Localization xml file. Generate new handle
+					<attribute id="DisplayName" type="TranslatedString" handle="h7ea32fafg08d9g4495gb3b6g1258472dbce9" version="2" /> Points to Localization xml file. Generate new handle
+					<attribute id="EquipmentTypeID" type="guid" value="edda8fbb-6456-4514-b3cc-36a2bc674c31" /> This determines the animations and how the weapon is held
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="ATO_Blunderbuss" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="b94e6841-2018-4a84-a99f-cac74dce877d" /> Same UUID as in Weapon.txt. Generate new UUID
+					<attribute id="Name" type="LSString" value="ATO_Blunderbuss_2" /> Same as Stats
+					<attribute id="ParentTemplateId" type="FixedString" value="f44c9c6f-bc71-42ad-9cad-2dae306e750e" /> Points to WPN_HeavyCrossbow_1 in Shared.PAK's RootTemplate
+					<attribute id="PhysicsTemplate" type="FixedString" value="c4ea7ee4-38c9-4ced-a086-3aff9345cb9a" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="ATO_Blunderbuss_2" /> Stats for the Weapon.txt
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="201b991d-51ee-4221-9a8c-900b9b291a30" /> For weapons this determines the 3D model and texture used. So all visuals.
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="GameMaster" />
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects"> Blunderbuss +3
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="h2dac4300g1fb7g4958g8924g329cf1493fb3" version="2" /> Points to Localization xml file. Generate new handle
+					<attribute id="DisplayName" type="TranslatedString" handle="h7ea32fafg08d9g4495gb3b6g1258472dbce9" version="2" /> Points to Localization xml file. Generate new handle
+					<attribute id="EquipmentTypeID" type="guid" value="edda8fbb-6456-4514-b3cc-36a2bc674c31" /> This determines the animations and how the weapon is held
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="ATO_Blunderbuss" /> Keep the original icon, as the visuals have not been altered
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="3ca881d7-eeb3-45df-9053-db3c7aba1e83" /> Same UUID as in Weapon.txt. Generate new UUID
+					<attribute id="Name" type="LSString" value="ATO_Blunderbuss_3" /> Same as Stats
+					<attribute id="ParentTemplateId" type="FixedString" value="f44c9c6f-bc71-42ad-9cad-2dae306e750e" /> Points to WPN_HeavyCrossbow_1 in Shared.PAK's RootTemplate
+					<attribute id="PhysicsTemplate" type="FixedString" value="c4ea7ee4-38c9-4ced-a086-3aff9345cb9a" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="ATO_Blunderbuss_3" /> Stats for the Weapon.txt
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="201b991d-51ee-4221-9a8c-900b9b291a30" /> For weapons this determines the 3D model and texture used. So all visuals.
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+					<children>
+						<node id="GameMaster" />
 						<node id="OnDestroyActions">
 							<children>
 								<node id="Action">
@@ -870,10 +1321,10 @@
 						</node>
 					</children>
 				</node>
-				<node id="GameObjects">
-                    <attribute id="Description" type="TranslatedString" handle="TODO" version="1" />
-                    <attribute id="DisplayName" type="TranslatedString" handle="TODO" version="1" />
-                    <attribute id="Icon" type="FixedString" value="FIND OR MAKE A RING" />
+				<node id="GameObjects">Marksman Ring
+                    <attribute id="Description" type="TranslatedString" handle="had456a12ge193g4c60gae73gd626200ca9ce" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h946a7b78g6b02g44dagbb78g29a297077b83" version="1" />
+                    <attribute id="Icon" type="FixedString" value="ATO_MarksmanRing" />
                     <attribute id="LevelName" type="FixedString" value="" />
                     <attribute id="MapKey" type="FixedString" value="340de2d8-fd33-454c-a5fb-43bdee52d57f" />
                     <attribute id="Name" type="LSString" value="ATO_MarksmansRing" />
@@ -881,14 +1332,15 @@
                     <attribute id="Stats" type="FixedString" value="ATO_MarksmansRing" />
                     <attribute id="Type" type="FixedString" value="item" />
                     <attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<attribute id="VisualTemplate" type="FixedString" value="e2552c8e-de64-4a77-bba9-bd15f58e0225" />
                     <children>
                         <node id="GameMaster"/>
                     </children>
                 </node>
-				<node id="GameObjects">
-                    <attribute id="Description" type="TranslatedString" handle="TODO" version="1" />
-                    <attribute id="DisplayName" type="TranslatedString" handle="TODO" version="1" />
-                    <attribute id="Icon" type="FixedString" value="FIND OR MAKE A RING" />
+				<node id="GameObjects"> Marksman Ring +1
+                    <attribute id="Description" type="TranslatedString" handle="had456a12ge193g4c60gae73gd626200ca9ce" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h946a7b78g6b02g44dagbb78g29a297077b83" version="1" />
+                    <attribute id="Icon" type="FixedString" value="ATO_MarksmanRing" />
                     <attribute id="LevelName" type="FixedString" value="" />
                     <attribute id="MapKey" type="FixedString" value="17b0e1ac-e889-4eda-81bb-c15cb0228b60" />
                     <attribute id="Name" type="LSString" value="ATO_MarksmansRing_1" />
@@ -896,6 +1348,39 @@
                     <attribute id="Stats" type="FixedString" value="ATO_MarksmansRing_1" />
                     <attribute id="Type" type="FixedString" value="item" />
                     <attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<attribute id="VisualTemplate" type="FixedString" value="e2552c8e-de64-4a77-bba9-bd15f58e0225" />
+                    <children>
+                        <node id="GameMaster"/>
+                    </children>
+                </node>
+				<node id="GameObjects">Marksman Ring +2
+                    <attribute id="Description" type="TranslatedString" handle="had456a12ge193g4c60gae73gd626200ca9ce" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h946a7b78g6b02g44dagbb78g29a297077b83" version="1" />
+                    <attribute id="Icon" type="FixedString" value="ATO_MarksmanRing" />
+                    <attribute id="LevelName" type="FixedString" value="" />
+                    <attribute id="MapKey" type="FixedString" value="c2c8bf1c-12bd-452c-afbe-43aff7eadc11" />
+                    <attribute id="Name" type="LSString" value="ATO_MarksmansRing_2" />
+                    <attribute id="ParentTemplateId" type="FixedString" value="a9f741f6-a758-47ea-bb21-9a37d3ddfe42" />
+                    <attribute id="Stats" type="FixedString" value="ATO_MarksmansRing_2" />
+                    <attribute id="Type" type="FixedString" value="item" />
+                    <attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<attribute id="VisualTemplate" type="FixedString" value="e2552c8e-de64-4a77-bba9-bd15f58e0225" />
+                    <children>
+                        <node id="GameMaster"/>
+                    </children>
+                </node>
+				<node id="GameObjects">Marksman Ring +3
+                    <attribute id="Description" type="TranslatedString" handle="had456a12ge193g4c60gae73gd626200ca9ce" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h946a7b78g6b02g44dagbb78g29a297077b83" version="1" />
+                    <attribute id="Icon" type="FixedString" value="ATO_MarksmanRing" />
+                    <attribute id="LevelName" type="FixedString" value="" />
+                    <attribute id="MapKey" type="FixedString" value="193b4fad-f736-44e8-bd00-83fc32bd8bed" />
+                    <attribute id="Name" type="LSString" value="ATO_MarksmansRing_3" />
+                    <attribute id="ParentTemplateId" type="FixedString" value="a9f741f6-a758-47ea-bb21-9a37d3ddfe42" />
+                    <attribute id="Stats" type="FixedString" value="ATO_MarksmansRing_3" />
+                    <attribute id="Type" type="FixedString" value="item" />
+                    <attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<attribute id="VisualTemplate" type="FixedString" value="e2552c8e-de64-4a77-bba9-bd15f58e0225" />
                     <children>
                         <node id="GameMaster"/>
                     </children>

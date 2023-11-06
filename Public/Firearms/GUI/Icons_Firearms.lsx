@@ -13,8 +13,8 @@
                     <attribute id="UUID" type="FixedString" value="5a8a93b3-0522-422c-a703-2a879a149a92"/> 
                 </node>
                 <node id="TextureAtlasTextureSize">
-                    <attribute id="Height" type="int32" value="64"/>
-                    <attribute id="Width" type="int32" value="448"/>
+                    <attribute id="Height" type="int32" value="576"/>
+                    <attribute id="Width" type="int32" value="64"/>
                 </node>
             </children>
         </node>
@@ -24,53 +24,67 @@
             <children>
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="ATO_Blunderbuss"/> 1
-                    <attribute id="U1" type="float" value="0.0"/>
-                    <attribute id="U2" type="float" value="0.14285"/>
+                    <attribute id="U1" type="float" value="0"/>
+                    <attribute id="U2" type="float" value="1"/>
                     <attribute id="V1" type="float" value="0.0"/>
-                    <attribute id="V2" type="float" value="1"/> 
+                    <attribute id="V2" type="float" value="0.11111"/> 
                 </node>			
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="ATO_Flintlock"/> 2
-                    <attribute id="U1" type="float" value="0.14286"/> Left
-                    <attribute id="U2" type="float" value="0.2857"/> Right
-                    <attribute id="V1" type="float" value="0.0"/> Top
-                    <attribute id="V2" type="float" value="1"/> Bottom
+                    <attribute id="U1" type="float" value="0"/> Left
+                    <attribute id="U2" type="float" value="1"/> Right
+                    <attribute id="V1" type="float" value="0.11111"/> Top
+                    <attribute id="V2" type="float" value="0.22222"/> Bottom
                 </node>							
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="ATO_GunChest"/> 3
-                    <attribute id="U1" type="float" value=".28571"/> Left
-                    <attribute id="U2" type="float" value="0.42856"/> Right
-                    <attribute id="V1" type="float" value="0.0"/> Top
-                    <attribute id="V2" type="float" value="1"/> Bottom
+                    <attribute id="U1" type="float" value="0"/> Left
+                    <attribute id="U2" type="float" value="1"/> Right
+                    <attribute id="V1" type="float" value="0.22222"/> Top
+                    <attribute id="V2" type="float" value="0.33333"/> Bottom
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="ATO_MarksmanRing"/> 4
+                    <attribute id="U1" type="float" value="0"/> Left
+                    <attribute id="U2" type="float" value="1"/> Right
+                    <attribute id="V1" type="float" value="0.33333"/> Top
+                    <attribute id="V2" type="float" value="0.44444"/> Bottom
                 </node>							
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="ATO_Musket"/> 4 - It is best not to leave these MapKeys blank, but you can safely leave your prefix here.
-                    <attribute id="U1" type="float" value="0.42857"/> Left
-                    <attribute id="U2" type="float" value="0.57142"/> Right
-                    <attribute id="V1" type="float" value="0.0"/> Top
-                    <attribute id="V2" type="float" value="1"/> Bottom
-                </node>				
+                    <attribute id="MapKey" type="FixedString" value="ATO_Musket"/> 5 - It is best not to leave these MapKeys blank, but you can safely leave your prefix here.
+                    <attribute id="U1" type="float" value="0"/> Left
+                    <attribute id="U2" type="float" value="1"/> Right
+                    <attribute id="V1" type="float" value="0.44444"/> Top
+                    <attribute id="V2" type="float" value="0.55555"/> Bottom
+                </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="ATO_Pepperbox"/> 5
-                    <attribute id="U1" type="float" value="0.57143"/> Left
-                    <attribute id="U2" type="float" value="0.71428"/> Right
-                    <attribute id="V1" type="float" value="0.0"/> Top
-                    <attribute id="V2" type="float" value="1"/> Bottom
+                    <attribute id="MapKey" type="FixedString" value="ATO_PalmPistol"/> 6
+                    <attribute id="U1" type="float" value="0"/> Left
+                    <attribute id="U2" type="float" value="1"/> Right
+                    <attribute id="V1" type="float" value="0.55555"/> Top
+                    <attribute id="V2" type="float" value="0.66666"/> Bottom
                 </node>			
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="ATO_SCOB_Flintlock"/> 6
-                    <attribute id="U1" type="float" value="0.71429"/> Left
-                    <attribute id="U2" type="float" value="0.85714"/> Right
-                    <attribute id="V1" type="float" value="0.0"/> Top
-                    <attribute id="V2" type="float" value="1"/> Bottom
+                    <attribute id="MapKey" type="FixedString" value="ATO_Pepperbox"/> 7
+                    <attribute id="U1" type="float" value="0"/> Left
+                    <attribute id="U2" type="float" value="1"/> Right
+                    <attribute id="V1" type="float" value="0.66666"/> Top
+                    <attribute id="V2" type="float" value="0.77777"/> Bottom
+                </node>			
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="ATO_SCOB_Flintlock"/> 8
+                    <attribute id="U1" type="float" value="0"/> Left
+                    <attribute id="U2" type="float" value="1"/> Right
+                    <attribute id="V1" type="float" value="0.77777"/> Top
+                    <attribute id="V2" type="float" value="0.88888"/> Bottom
                 </node>					
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="ATO_SCOB_Musket"/> 7
-                    <attribute id="U1" type="float" value="0.85715"/> Left
+                    <attribute id="MapKey" type="FixedString" value="ATO_SCOB_Musket"/> 9
+                    <attribute id="U1" type="float" value="0"/> Left
                     <attribute id="U2" type="float" value="1"/> Right
-                    <attribute id="V1" type="float" value="0.0"/> Top
+                    <attribute id="V1" type="float" value="0.88888"/> Top
                     <attribute id="V2" type="float" value="1"/> Bottom
-                </node>			
+                </node>		
             </children>
         </node>
     </region>

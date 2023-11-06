@@ -25,40 +25,35 @@ object category "O_ATO_BulletOfFire",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ATO_Palm_Pistol",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_ATO_Pepperbox",1,0,0,0,0,0,0,0
+object category "I_ATO_Palm_Pistol_1",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_ATO_Blunderbuss",1,0,0,0,0,0,0,0
-
-new treasuretable "TUT_Chest"
-CanMerge 1
+object category "I_ATO_Palm_Pistol_2",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_ATO_Flintlock",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ATO_Flintlock_1",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ATO_Flintlock_2",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ATO_Flintlock_3",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ATO_Burning_Bullet_Flintlock",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ATO_Musket",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ATO_Musket_1",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ATO_Musket_2",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ATO_Musket_3",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "O_ATO_Bullet",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "O_ATO_BulletOfFire",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ATO_Palm_Pistol",1,0,0,0,0,0,0,0
+object category "I_ATO_Palm_Pistol_3",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ATO_Pepperbox",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_ATO_Pepperbox_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ATO_Pepperbox_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ATO_Pepperbox_3",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_ATO_Blunderbuss",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ATO_Blunderbuss_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ATO_Blunderbuss_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ATO_Blunderbuss_3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ATO_MarksmansRing",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ATO_MarksmansRing_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ATO_MarksmansRing_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ATO_MarksmansRing_3",1,0,0,0,0,0,0,0
 
 new treasuretable "ATO_GunChest_TT"
 new subtable "1,1"
@@ -67,55 +62,6 @@ new subtable "1,1"
 object category "I_ATO_SCOB_Flintlock_2",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ATO_SCOB_Musket",1,0,0,0,0,0,0,0
-
-new treasuretable "DEN_Entrance_Trade"
-CanMerge 1
-new subtable "1,1"
-object category "I_ATO_Flintlock",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ATO_Musket",1,0,0,0,0,0,0,0
-
-new treasuretable "DEN_Weaponsmith_Trade"
-CanMerge 1
-new subtable "1,1"
-object category "I_ATO_Musket",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ATO_Flintlock",1,0,0,0,0,0,0,0
-
-new treasuretable "GOB_Festivities_Trader"
-CanMerge 1
-new subtable "1,1"
-object category "I_ATO_Flintlock",1,0,0,0,0,0,0,0
-
-new treasuretable "UND_MycoVillage_AlchemistDwarf_Trade"
-CanMerge 1
-new subtable "1,1"
-object category "I_ATO_Flintlock_1",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ATO_Musket_1",1,0,0,0,0,0,0,0
-
-new treasuretable "UND_KC_Trader_Weapons"
-CanMerge 1
-new subtable "1,1"
-object category "I_ATO_Flintlock_1",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ATO_Musket_1",1,0,0,0,0,0,0,0
-
-new treasuretable "CRE_Expeditioner_Trade"
-CanMerge 1
-new subtable "1,1"
-object category "I_ATO_Flintlock_2",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ATO_Burning_Bullet_Flintlock",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ATO_Musket_2",1,0,0,0,0,0,0,0
-
-new treasuretable "HAV_Weaponsmith_Trade"
-CanMerge 1
-new subtable "1,1"
-object category "I_ATO_Musket_3",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ATO_Flintlock_3",1,0,0,0,0,0,0,0
 
 new treasuretable "ST_MartialRangedWeapons"
 CanMerge 1
@@ -131,37 +77,47 @@ CanMerge
 new subtable "1,1"
 object category "I_ATO_Flintlock_1",1,0,0,0,0,0,0,0
 object category "I_ATO_Musket_1",1,0,0,0,0,0,0,0
+object category "I_ATO_Blunderbuss_1",1,0,0,0,0,0,0,0
+object category "I_ATO_Pepperbox_1",1,0,0,0,0,0,0,0
+object category "I_ATO_PalmPistol_1",1,0,0,0,0,0,0,0
 
 new treasuretable "EquipmentTrader_Ranged_Magic"
 CanMerge
 new subtable "1,1"
 object category "I_ATO_Burning_Bullet_Flintlock",1,0,0,0,0,0,0,0
+object category "I_ATO_Pepperbox_2",1,0,0,0,0,0,0,0
+object category "I_ATO_Pepperbox_3",1,0,0,0,0,0,0,0
+object category "I_ATO_Musket_2",1,0,0,0,0,0,0,0
+object category "I_ATO_Musket_3",1,0,0,0,0,0,0,0
+object category "I_ATO_Flintlock_2",1,0,0,0,0,0,0,0
+object category "I_ATO_Flintlock_3",1,0,0,0,0,0,0,0
+object category "I_ATO_Blunderbuss_2",1,0,0,0,0,0,0,0
+object category "I_ATO_Blunderbuss_3",1,0,0,0,0,0,0,0
+object category "I_ATO_PalmPistol_2",1,0,0,0,0,0,0,0
+object category "I_ATO_PalmPistol_3",1,0,0,0,0,0,0,0
 
 new treasuretable "ST_AllMartialRangedWeapons"
 CanMerge
 new subtable "1,1"
-object category "I_ATO_GunChest",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_ATO_Flintlock",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_ATO_Flintlock_1",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_ATO_Flintlock_2",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_ATO_Flintlock_3",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_ATO_Burning_Bullet_Flintlock",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_ATO_Musket",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_ATO_Musket_1",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_ATO_Musket_2",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_ATO_Musket_3",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_ATO_Palm_Pistol",1,0,0,0,0,0,0,0
-new subtable "1,1"
+object category "I_ATO_Palm_Pistol_1",1,0,0,0,0,0,0,0
+object category "I_ATO_Palm_Pistol_2",1,0,0,0,0,0,0,0
+object category "I_ATO_Palm_Pistol_3",1,0,0,0,0,0,0,0
 object category "I_ATO_Pepperbox",1,0,0,0,0,0,0,0
-new subtable "1,1"
+object category "I_ATO_Pepperbox_1",1,0,0,0,0,0,0,0
+object category "I_ATO_Pepperbox_2",1,0,0,0,0,0,0,0
+object category "I_ATO_Pepperbox_3",1,0,0,0,0,0,0,0
 object category "I_ATO_Blunderbuss",1,0,0,0,0,0,0,0
+object category "I_ATO_Blunderbuss_1",1,0,0,0,0,0,0,0
+object category "I_ATO_Blunderbuss_2",1,0,0,0,0,0,0,0
+object category "I_ATO_Blunderbuss_3",1,0,0,0,0,0,0,0
+object category "I_ATO_GunChest",1,0,0,0,0,0,0,0

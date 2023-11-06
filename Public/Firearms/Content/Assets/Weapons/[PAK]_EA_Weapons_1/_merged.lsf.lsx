@@ -284,6 +284,86 @@
 					<attribute id="Width" type="int32" value="4096" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 				</node>
+				<!--Marksman Ring!-->
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="4096" />
+					<attribute id="ID" type="FixedString" value="489f7825-3cc8-49f1-9e1d-f8f1e93bfd33" /> <!--UUID for the image!-->
+					<attribute id="Name" type="LSString" value="ATO_MarksmanRing" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Items/ATO/ATO_MarksmanRing/Resources/ATO_MarksmanRing_BM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="ATO_MarksmanRing" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="4096" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="4096" />
+					<attribute id="ID" type="FixedString" value="db845060-8e24-4b6a-8cd6-6fbe78e5b3fd" /> <!--UUID for the image!-->
+					<attribute id="Name" type="LSString" value="ATO_MarksmanRing" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Items/ATO/ATO_MarksmanRing/Resources/ATO_MarksmanRing_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="ATO_MarksmanRing" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="4096" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="4096" />
+					<attribute id="ID" type="FixedString" value="ce1ddc56-fb23-42d4-b596-25353a0c810c" /> <!--UUID for the image!-->
+					<attribute id="Name" type="LSString" value="ATO_MarksmanRing" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Items/ATO/ATO_MarksmanRing/Resources/ATO_MarksmanRing_PM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="ATO_MarksmanRing" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="4096" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<!--Palm Pistol!-->
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="4096" />
+					<attribute id="ID" type="FixedString" value="44b5aa0e-1fb0-4408-9af2-1c36eef01be7" /> <!--UUID for the image!-->
+					<attribute id="Name" type="LSString" value="ATO_PalmPistol" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_PalmPistol/Resources/ATO_PalmPistol_BM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="ATO_PalmPistol" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="4096" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="4096" />
+					<attribute id="ID" type="FixedString" value="faf51148-b25d-477c-8cb2-76d18f495674" /> <!--UUID for the image!-->
+					<attribute id="Name" type="LSString" value="ATO_PalmPistol" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_PalmPistol/Resources/ATO_PalmPistol_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="ATO_PalmPistol" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="4096" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="4096" />
+					<attribute id="ID" type="FixedString" value="bf4f8651-ae1e-453d-a085-de00816ad1d9" /> <!--UUID for the image!-->
+					<attribute id="Name" type="LSString" value="ATO_PalmPistol" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_PalmPistol/Resources/ATO_PalmPistol_PM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="ATO_PalmPistol" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="4096" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				</node>
 			</children>
 		</node>
 	</region>	
@@ -682,6 +762,118 @@
 						</node>
 					</children>
 				</node>
+				<!-- Marksman Ring !-->
+				<node id="Resource">
+					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="20659efc-095d-428a-9269-bdb924b09bf1" /> <!--UUID for the textures together !-->
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="MarksmanRing_Mat" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Base/Base.lsf" /> <!-- alphaTest !-->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
+					<children>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="False" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="SeeThroughEnabled" />
+							<attribute id="Value" type="float" value="0" /> <!--this makes it seethrough, the lower the more solid -->
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0.5" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="Reflectance" />
+							<attribute id="Value" type="float" value="1" /> <!-- the lower the value the less is reflects -->
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
+							<attribute id="IgnoreTexelDensity" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="db845060-8e24-4b6a-8cd6-6fbe78e5b3fd" />
+							<attribute id="ParameterName" type="FixedString" value="normalmap" /> <!-- this is your normalmap texture-->
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="489f7825-3cc8-49f1-9e1d-f8f1e93bfd33" />
+							<attribute id="ParameterName" type="FixedString" value="basecolor" /> <!-- this is your base color map _BM-->
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="ce1ddc56-fb23-42d4-b596-25353a0c810c" />
+							<attribute id="ParameterName" type="FixedString" value="physicalmap" /> <!-- if you don't like how it reflects light, make a physical map and link it here-->
+						</node>
+					</children>
+				</node>
+				<!-- Palm Pistol !-->
+				<node id="Resource">
+					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="a9b7a785-c5de-4eb3-9083-fea3552e8baf" /> <!--UUID for the textures together !-->
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="MarksmanRing_Mat" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Base/Base.lsf" /> <!-- alphaTest !-->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
+					<children>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="False" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="SeeThroughEnabled" />
+							<attribute id="Value" type="float" value="0" /> <!--this makes it seethrough, the lower the more solid -->
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0.5" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="Reflectance" />
+							<attribute id="Value" type="float" value="1" /> <!-- the lower the value the less is reflects -->
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
+							<attribute id="IgnoreTexelDensity" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="faf51148-b25d-477c-8cb2-76d18f495674" />
+							<attribute id="ParameterName" type="FixedString" value="normalmap" /> <!-- this is your normalmap texture-->
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="44b5aa0e-1fb0-4408-9af2-1c36eef01be7" />
+							<attribute id="ParameterName" type="FixedString" value="basecolor" /> <!-- this is your base color map _BM-->
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="Texture Map" />
+							<attribute id="ID" type="FixedString" value="bf4f8651-ae1e-453d-a085-de00816ad1d9" />
+							<attribute id="ParameterName" type="FixedString" value="physicalmap" /> <!-- if you don't like how it reflects light, make a physical map and link it here-->
+						</node>
+					</children>
+				</node>
 			</children>
 		</node>
 	</region>
@@ -942,6 +1134,80 @@
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="017640ee-4606-4c47-ad63-cb6fbc1e2eec" />  <!--Use UUID for the textures together !-->
 							<attribute id="ObjectID" type="FixedString" value="ATO_Pepperbox.ATO_Pepperbox.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>
+				<!-- Marksman Ring !-->
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.06000299 0.0664641 0.2589397" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.05077773 -0.04573484 -1.283713" />
+					<attribute id="Center" type="fvec3" value="0.004612628 0.01036463 -0.5123865" />
+					<attribute id="ID" type="FixedString" value="e2552c8e-de64-4a77-bba9-bd15f58e0225" />   <!--Use in merged as visual template !-->
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="ATO_MarksmanRing" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.7753447" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Items/ATO/ATO_MarksmanRing/Resources/ATO_MarksmanRing.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Firearms/Assets/Items/ATO/ATO_MarksmanRing/Resources/ATO_MarksmanRing.Dummy_ATO_MarksmanRing.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="20659efc-095d-428a-9269-bdb924b09bf1" />  <!--Use UUID for the textures together !-->
+							<attribute id="ObjectID" type="FixedString" value="ATO_MarksmanRing.ATO_MarksmanRing.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>
+				<!-- Palm Pistol !-->
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.06000299 0.0664641 0.2589397" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.05077773 -0.04573484 -1.283713" />
+					<attribute id="Center" type="fvec3" value="0.004612628 0.01036463 -0.5123865" />
+					<attribute id="ID" type="FixedString" value="0c932bea-374c-4431-aac4-4cae8c38615c" />   <!--Use in merged as visual template !-->
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="ATO_PalmPistol" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.7753447" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_PalmPistol/Resources/ATO_PalmPistol.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Firearms/Assets/Weapons/ATO/ATO_PalmPistol/Resources/ATO_PalmPistol.Dummy_ATO_PalmPistol.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="a9b7a785-c5de-4eb3-9083-fea3552e8baf" />  <!--Use UUID for the textures together !-->
+							<attribute id="ObjectID" type="FixedString" value="ATO_PalmPistol.ATO_PalmPistol.0" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
