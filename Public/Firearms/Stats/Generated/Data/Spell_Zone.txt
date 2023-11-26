@@ -18,7 +18,7 @@ data "TooltipOnSave" "961753f4-c345-4bc4-b408-1d5b87a5ab0c"?
 data "Shape" "Cone"
 data "Range" "5"
 data "Base" "2"
-data "UseCosts" "ActionPoint:1"
+data "UseCosts" "ActionPoint:1;AmmoLongArm:1"
 data "SpellAnimation" ""
 data "SpellFlags" "CanAreaDamageEvade"
 data "SpellAnimation" "661cae72-6bc9-4e6d-98e2-89db9e03d6b5,,;bf6ea370-a917-45b3-908d-35729c98db10,,;4a789a60-04b8-4a26-b476-65cf26ca558b,,;a11b8bcb-ba24-417a-aa86-4e4379c41ee2,,;5eb39acc-ecbd-4940-84c8-a1e13668b865,,;,,;,,;,,;,,"

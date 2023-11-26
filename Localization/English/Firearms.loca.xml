@@ -80,4 +80,6 @@
   <content contentuid="had456a12ge193g4c60gae73gd626200ca9ce" version="1">Test text</content>
   <content contentuid="h01ec71abg5ad6g4b3egbd69g51f565e41837" version="1">Dexterity Increase</content>
   <content contentuid="hc1f5d5b1gd80eg499fgb1bcgfbb6be0fbbba" version="1">Increases Dexterity</content>
+  <content contentuid="h3b644e31ga241g4a4bg9fdcgba7103cccf8e" version="1">Random Shot</content>
+  <content contentuid="hf67fd885gc860g4d10g9262g6c38bfc36003" version="1">Fires a random type of bullet at the enemy</content>
 </contentList>
