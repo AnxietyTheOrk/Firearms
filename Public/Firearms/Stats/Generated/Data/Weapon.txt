@@ -1,3 +1,5 @@
+//Base Firearm Template
+
 new entry "_Firearm"
 type "Weapon"
 using "_BaseWeapon"
@@ -6,6 +8,8 @@ data "Weapon Group" "MartialRangedWeapon"
 data "Projectile" "b64b516c-1afd-4f8d-b624-4c9caf06f1c2"
 data "Proficiency Group" "Slings;MartialWeapons"
 data "DefaultBoosts" ""
+
+//Pistol Templates
 
 new entry "_Firearm_Pistol"
 type "Weapon"
@@ -40,6 +44,8 @@ using "_Firearm_Pistol"
 data "Rarity" "VeryRare"
 data "DefaultBoosts" "WeaponEnchantment(3);WeaponProperty(Magical)"
 
+//Musket Templates
+
 new entry "_Firearm_LongGun"
 type "Weapon"
 using "_Firearm"
@@ -69,6 +75,30 @@ type "Weapon"
 using "_Firearm_LongGun"
 data "Rarity" "VeryRare"
 data "DefaultBoosts" "WeaponEnchantment(3);WeaponProperty(Magical)"
+
+//Blunderbuss Templates
+
+new entry "_Firearm_Blunderbuss"
+type "Weapon"
+using "_Firearm_LongGun"
+data "BoostsOnEquipMainHand" "AttackSpellOverride(Main-Hand Firearm Attack - Longarms, Projectile_MainHandAttack);AttackSpellOverride(ATO_SneakAttack_Longarm, Projectile_SneakAttack);UnlockSpell(Projectile_Blunderbuss_Knockback);UnlockSpell(Projectile_Scatter_Shot);UnlockSpell(Shout_Reload_Longarm)"
+
+new entry "_Firearm_Blunderbuss_1"
+type "Weapon"
+using "_Firearm_LongGun_1"
+data "BoostsOnEquipMainHand" "AttackSpellOverride(Main-Hand Firearm Attack - Longarms, Projectile_MainHandAttack);AttackSpellOverride(ATO_SneakAttack_Longarm, Projectile_SneakAttack);UnlockSpell(Projectile_Blunderbuss_Knockback);UnlockSpell(Projectile_Scatter_Shot);UnlockSpell(Shout_Reload_Longarm)"
+
+new entry "_Firearm_Blunderbuss_2"
+type "Weapon"
+using "_Firearm_LongGun_2"
+data "BoostsOnEquipMainHand" "AttackSpellOverride(Main-Hand Firearm Attack - Longarms, Projectile_MainHandAttack);AttackSpellOverride(ATO_SneakAttack_Longarm, Projectile_SneakAttack);UnlockSpell(Projectile_Blunderbuss_Knockback);UnlockSpell(Projectile_Scatter_Shot);UnlockSpell(Shout_Reload_Longarm)"
+
+new entry "_Firearm_Blunderbuss_3"
+type "Weapon"
+using "_Firearm_LongGun_3"
+data "BoostsOnEquipMainHand" "AttackSpellOverride(Main-Hand Firearm Attack - Longarms, Projectile_MainHandAttack);AttackSpellOverride(ATO_SneakAttack_Longarm, Projectile_SneakAttack);UnlockSpell(Projectile_Blunderbuss_Knockback);UnlockSpell(Projectile_Scatter_Shot);UnlockSpell(Shout_Reload_Longarm)"
+
+//Flintlocks
 
 new entry "ATO_Flintlock"
 type "Weapon"
@@ -134,50 +164,7 @@ data "BoostsOnEquipMainHand" "AttackSpellOverride(Main-Hand Firearm Attack, Proj
 data "BoostsOnEquipOffHand" "AttackSpellOverride(Off-Hand Firearm Attack, Projectile_OffhandAttack);UnlockSpell(ATO_ArchersEye);UnlockSpell(ATO_BulletOfFire);UnlockSpell(Shout_Reload_OffHand)"
 data "BoostsOnEquip" "UnlockSpell(ATO_ArchersEye);UnlockSpell(ATO_BulletOfFire);ApplyStatus(ATO_Fire_Immunity)"
 
-new entry "ATO_Musket"
-type "Weapon"
-using "_Firearm_LongGun"
-data "RootTemplate" "1004e45b-a662-4517-aea1-99307f4affc9"
-data "Damage" "1d12+2"
-data "ValueLevel" "3"
-data "Weight" "5"
-data "Rarity" "Common"
-
-new entry "ATO_Musket_1"
-type "Weapon"
-using "_Firearm_LongGun_1"
-data "RootTemplate" "7ecf0a5d-6e12-4260-bd9d-6d8150d29894"
-data "Damage" "1d12+2"
-data "ValueLevel" "3"
-data "Weight" "5"
-
-new entry "ATO_Musket_2"
-type "Weapon"
-using "_Firearm_LongGun_2"
-data "RootTemplate" "cdb82d01-4133-48fb-88a8-7380405dd7db"
-data "Damage" "1d12+2"
-data "ValueLevel" "3"
-data "Weight" "5"
-
-new entry "ATO_Musket_3"
-type "Weapon"
-using "_Firearm_LongGun_3"
-data "RootTemplate" "42d6e333-8f54-4a0d-8eed-8c1a5e9b784d"
-data "Damage" "1d12+2"
-data "ValueLevel" "3"
-data "Weight" "5"
-
-new entry "ATO_SCOB_Musket"
-type "Weapon"
-using "_Firearm_LongGun_3"
-data "RootTemplate" "40127c35-440d-400f-bd24-8fb8605bf7cf"
-data "ValueOverride" "3000"
-data "Damage" "2d12"
-data "ValueLevel" "3"
-data "Weight" "5"
-data "Rarity" "Legendary"
-data "PassivesOnEquip" "ATO_Marksman_Guns_Passive"
-data "BoostsOnEquipMainHand" "AttackSpellOverride(Main-Hand Firearm Attack - Longarms, Projectile_MainHandAttack);AttackSpellOverride(ATO_SneakAttack_Longarm, Projectile_SneakAttack);UnlockSpell(ATO_Aim);UnlockSpell(ATO_PinDown_Longarm);UnlockSpell(ATO_ThroughShot);UnlockSpell(Shout_Reload_Longarm)"
+//Palm Pistols
 
 new entry "ATO_Palm_Pistol"
 type "Weapon"
@@ -227,6 +214,8 @@ data "Weight" ".5"
 data "PassivesMainHand" "ATO_Ammo_SixShot_Passive"
 data "PassivesOffHand" "ATO_Ammo_SixShot_Offhand_Passive"
 
+//Pepperboxes
+
 new entry "ATO_Pepperbox"
 type "Weapon"
 using "_Firearm_Pistol"
@@ -268,30 +257,59 @@ data "ValueLevel" "3"
 data "Damage Range" "3000"
 data "WeaponRange" "2400"
 data "Weight" "2.5"
-data "BoostsOnEquipMainHand" "AttackSpellOverride(Main-Hand Firearm Attack, Projectile_MainHandAttack);AttackSpellOverride(ATO_SneakAttack, Projectile_SneakAttack);UnlockSpell(ATO_PiercingShot);UnlockSpell(ATO_MobileShooting);UnlockSpell(Shout_Reload_MainHand);IF(HasFirearmEquipped()):UnlockSpell(Shout_Reload_Both)"
+data "BoostsOnEquipMainHand" "AttackSpellOverride(Main-Hand Firearm Attack, Projectile_MainHandAttack);UnlockSpell(Shout_Reload_MainHand);IF(HasFirearmEquipped()):UnlockSpell(Shout_Reload_Both);UnlockSpell(Chain_1);UnlockSpell(Chain_2);UnlockSpell(Chain_3);UnlockSpell(Chain_4);UnlockSpell(Chain_5);UnlockSpell(Chain_6);"
 data "BoostsOnEquipOffHand" "AttackSpellOverride(Off-Hand Firearm Attack, Projectile_OffhandAttack);UnlockSpell(Shout_Reload_OffHand)"
 data "PassivesMainHand" "ATO_Ammo_SixShot_Passive"
 data "PassivesOffHand" "ATO_Ammo_SixShot_Offhand_Passive"
 
-new entry "_Firearm_Blunderbuss"
+//Muskets
+
+new entry "ATO_Musket"
 type "Weapon"
 using "_Firearm_LongGun"
-data "BoostsOnEquipMainHand" "AttackSpellOverride(Main-Hand Firearm Attack - Longarms, Projectile_MainHandAttack);AttackSpellOverride(ATO_SneakAttack_Longarm, Projectile_SneakAttack);UnlockSpell(Projectile_Blunderbuss_Knockback);UnlockSpell(Projectile_Scatter_Shot);UnlockSpell(Shout_Reload_Longarm)"
+data "RootTemplate" "1004e45b-a662-4517-aea1-99307f4affc9"
+data "Damage" "1d12+2"
+data "ValueLevel" "3"
+data "Weight" "5"
+data "Rarity" "Common"
 
-new entry "_Firearm_Blunderbuss_1"
+new entry "ATO_Musket_1"
 type "Weapon"
 using "_Firearm_LongGun_1"
-data "BoostsOnEquipMainHand" "AttackSpellOverride(Main-Hand Firearm Attack - Longarms, Projectile_MainHandAttack);AttackSpellOverride(ATO_SneakAttack_Longarm, Projectile_SneakAttack);UnlockSpell(Projectile_Blunderbuss_Knockback);UnlockSpell(Projectile_Scatter_Shot);UnlockSpell(Shout_Reload_Longarm)"
+data "RootTemplate" "7ecf0a5d-6e12-4260-bd9d-6d8150d29894"
+data "Damage" "1d12+2"
+data "ValueLevel" "3"
+data "Weight" "5"
 
-new entry "_Firearm_Blunderbuss_2"
+new entry "ATO_Musket_2"
 type "Weapon"
 using "_Firearm_LongGun_2"
-data "BoostsOnEquipMainHand" "AttackSpellOverride(Main-Hand Firearm Attack - Longarms, Projectile_MainHandAttack);AttackSpellOverride(ATO_SneakAttack_Longarm, Projectile_SneakAttack);UnlockSpell(Projectile_Blunderbuss_Knockback);UnlockSpell(Projectile_Scatter_Shot);UnlockSpell(Shout_Reload_Longarm)"
+data "RootTemplate" "cdb82d01-4133-48fb-88a8-7380405dd7db"
+data "Damage" "1d12+2"
+data "ValueLevel" "3"
+data "Weight" "5"
 
-new entry "_Firearm_Blunderbuss_3"
+new entry "ATO_Musket_3"
 type "Weapon"
 using "_Firearm_LongGun_3"
-data "BoostsOnEquipMainHand" "AttackSpellOverride(Main-Hand Firearm Attack - Longarms, Projectile_MainHandAttack);AttackSpellOverride(ATO_SneakAttack_Longarm, Projectile_SneakAttack);UnlockSpell(Projectile_Blunderbuss_Knockback);UnlockSpell(Projectile_Scatter_Shot);UnlockSpell(Shout_Reload_Longarm)"
+data "RootTemplate" "42d6e333-8f54-4a0d-8eed-8c1a5e9b784d"
+data "Damage" "1d12+2"
+data "ValueLevel" "3"
+data "Weight" "5"
+
+new entry "ATO_SCOB_Musket"
+type "Weapon"
+using "_Firearm_LongGun_3"
+data "RootTemplate" "40127c35-440d-400f-bd24-8fb8605bf7cf"
+data "ValueOverride" "3000"
+data "Damage" "2d12"
+data "ValueLevel" "3"
+data "Weight" "5"
+data "Rarity" "Legendary"
+data "PassivesOnEquip" "ATO_Marksman_Guns_Passive"
+data "BoostsOnEquipMainHand" "AttackSpellOverride(Main-Hand Firearm Attack - Longarms, Projectile_MainHandAttack);AttackSpellOverride(ATO_SneakAttack_Longarm, Projectile_SneakAttack);UnlockSpell(ATO_Aim);UnlockSpell(ATO_PinDown_Longarm);UnlockSpell(ATO_ThroughShot);UnlockSpell(Shout_Reload_Longarm)"
+
+//Blunderbusses
 
 new entry "ATO_Blunderbuss"
 type "Weapon"
@@ -332,6 +350,8 @@ data "ValueLevel" "3"
 data "Damage Range" "3000"
 data "WeaponRange" "450"
 data "Weight" "5"
+
+//Artificer weapons
 
 new entry "WPN_Artillerist_Pistol_Firearm"
 type "Weapon"

@@ -1,3 +1,5 @@
+//Aim Boost
+
 new entry "ATO_AimBoost"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -8,6 +10,8 @@ data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;Hidden"
 data "TickType" "EndTurn"
 data "RemoveEvents" "OnAttack;OnAttacked;OnDamage;OnTurn"
 data "RemoveConditions" "SpellId('ATO_LongRangeShot')"
+
+//Dexterity Boosts
 
 new entry "ATO_Dex_Boost_1"
 type "StatusData"
@@ -37,6 +41,8 @@ data "Boosts" "Advantage(Ability, Dexterity)"
 data "Passives" "ATO_Dex_3"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog"
 
+//Fire Immunity
+
 new entry "ATO_Fire_Immunity"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -47,6 +53,8 @@ data "Boosts" "Resistance(Fire, Immune)"
 data "Passives" "ImmuneToDisarm"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;Hidden"
 
+//Darkvision
+
 new entry "ATO_Superior_Darkvision"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -55,6 +63,8 @@ data "Description" "ha730aa28gab18g4329gb254g8ee1327708f0;1"
 data "Icon" "PassiveFeature_Evasion"
 data "Passives" "SuperiorDarkvision;ImmuneToDisarm"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;Hidden"
+
+//Piercing Vulnerability
 
 new entry "ATO_Piercing_Vulnerable"
 type "StatusData"
@@ -65,6 +75,8 @@ data "StackId" "ATO_Piercing_Vulnerable"
 data "Boosts" "Resistance(Piercing,Vulnerable)"
 data "StatusPropertyFlags" ""
 data "ManagedStatusEffectType" "Negative"
+
+//From Artificer for Offhand Override
 
 new entry "UNARMEDATTACK_OVERRIDE_REPEATINGSHOT"
 type "StatusData"
@@ -103,6 +115,8 @@ data "Icon" ""
 data "Boosts" "AttackSpellOverride(Projectile_MainHandAttack_NoOffhand_ForGun, Projectile_MainHandAttack)"
 data "StatusPropertyFlags" "IgnoreResting;DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 data "StatusGroups" ""
+
+//For Firearm Tag
 
 new entry "FIREARM_MOD_STATUS"
 type "StatusData"

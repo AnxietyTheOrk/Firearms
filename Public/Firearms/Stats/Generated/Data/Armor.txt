@@ -1,3 +1,5 @@
+//Ring Templates
+
 new entry "_ATO_Ring_Magic"
 type "Armor"
 using "ARM_Ring"
@@ -29,6 +31,8 @@ data "Level" "1"
 data "ValueUUID" "cdc711a8-7fed-48c5-8fac-e260cefc671f"
 data "Rarity" "VeryRare"
 data "PassivesOnEquip" "ATO_Marksman_Guns_Passive;ATO_Dex_3"
+
+//Marksman Rings
 
 new entry "ATO_MarksmansRing"
 type "Object"

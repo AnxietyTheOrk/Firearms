@@ -1,42 +1,4 @@
-new entry "Gunner_PointBlank"
-type "PassiveData"
-data "DisplayName" "h1c932e1fg5fbbg422agae61g6a8d6e70122d;1"
-data "Description" "hfdb89a55g41f4g4b4bg8444g71b04b37a56f;1"
-data "DescriptionParams" "Distance(1.5)"
-data "Icon" "PassiveFeature_CrossbowExpert_PointBlank"
-data "Properties" "Highlighted"
-data "Boosts" "IgnorePointBlankDisadvantage(Loading)"
-
-new entry "Gunner_Proficiencies"
-type "PassiveData"
-data "DisplayName" "he4790f38gbdabg4ee7gac0bge6ef8f8404e5;1"
-data "Description" "hd747533dg7fc0g43caga6d4g962a22a70ccd;1"
-data "Icon" "PassiveFeature_Evasion"
-data "Properties" "IsHidden"
-data "Boosts" "Proficiency(Firearms);Proficiency(Slings)"
-
-new entry "Gunner_PassiveBonus"
-type "PassiveData"
-data "DisplayName" "h56c021efgc673g48a4g9d10g05d57436436b;1"
-data "Description" "ha7c3f964gdec0g4320ga1efg1962eeb1a5eb;1"
-data "Icon" "PassiveFeature_Evasion"
-data "Properties" "Highlighted"
-data "Boosts" "Ability(Dexterity, 1, 20);"
-
-new entry "ATO_Marksman_Guns_Passive"
-type "PassiveData"
-data "DisplayName" "he4790f38gbdabg4ee7gac0bge6ef8f8404e5;1"
-data "Description" "hd747533dg7fc0g43caga6d4g962a22a70ccd;1"
-data "DescriptionParams" ""
-data "Boosts" "Proficiency(Slings)"
-
-new entry "ATO_Aim_Passive"
-type "PassiveData"
-data "DescriptionParams" ""
-data "DisplayName" "h9c77816ag362dg49e9gb0b4g1a49de2f5799;1"
-data "Description" "h309a687dg9a7bg4e84g86d1g8753385f616b;1"
-data "Boosts" "RollBonus(Attack,-5)"
-data "Properties" "IsHidden"
+//Ammo Passives
 
 new entry "ATO_Ammo_Passive"
 type "PassiveData"
@@ -74,6 +36,35 @@ data "DescriptionParams" ""
 data "Boosts" "ActionResource(AmmoLongArm,6,0)"
 data "Properties" "IsHidden"
 
+//Gunner Feat Passives
+
+new entry "Gunner_PointBlank"
+type "PassiveData"
+data "DisplayName" "h1c932e1fg5fbbg422agae61g6a8d6e70122d;1"
+data "Description" "hfdb89a55g41f4g4b4bg8444g71b04b37a56f;1"
+data "DescriptionParams" "Distance(1.5)"
+data "Icon" "PassiveFeature_CrossbowExpert_PointBlank"
+data "Properties" "Highlighted"
+data "Boosts" "IgnorePointBlankDisadvantage(Loading)"
+
+new entry "Gunner_Proficiencies"
+type "PassiveData"
+data "DisplayName" "he4790f38gbdabg4ee7gac0bge6ef8f8404e5;1"
+data "Description" "hd747533dg7fc0g43caga6d4g962a22a70ccd;1"
+data "Icon" "PassiveFeature_Evasion"
+data "Properties" "IsHidden"
+data "Boosts" "Proficiency(Firearms);Proficiency(Slings)"
+
+new entry "Gunner_PassiveBonus"
+type "PassiveData"
+data "DisplayName" "h56c021efgc673g48a4g9d10g05d57436436b;1"
+data "Description" "ha7c3f964gdec0g4320ga1efg1962eeb1a5eb;1"
+data "Icon" "PassiveFeature_Evasion"
+data "Properties" "Highlighted"
+data "Boosts" "Ability(Dexterity, 1, 20);"
+
+//Tactical Gunner Passive
+
 new entry "Tactical_Gunner_Passive"
 type "PassiveData"
 data "DisplayName" "h468e6c2bg5632g472eg8b1agcd2e3a0ebfe0;1"
@@ -82,6 +73,25 @@ data "DescriptionParams" "0;1"
 data "Icon" "TODO"
 data "Boosts" "UnlockSpellVariant(SpellId('Shout_Reload_Longarm'),ModifyUseCosts(Replace,BonusActionPoint,0,0,BonusActionPoint));UnlockSpellVariant(SpellId('Shout_Reload_Both'),ModifyUseCosts(Replace,BonusActionPoint,1,0,ActionPoint))"
 data "Properties" "Highlighted"
+
+//Proficiency Passive
+
+new entry "ATO_Marksman_Guns_Passive"
+type "PassiveData"
+data "DisplayName" "he4790f38gbdabg4ee7gac0bge6ef8f8404e5;1"
+data "Description" "hd747533dg7fc0g43caga6d4g962a22a70ccd;1"
+data "DescriptionParams" ""
+data "Boosts" "Proficiency(Slings)"
+
+new entry "ATO_Aim_Passive"
+type "PassiveData"
+data "DescriptionParams" ""
+data "DisplayName" "h9c77816ag362dg49e9gb0b4g1a49de2f5799;1"
+data "Description" "h309a687dg9a7bg4e84g86d1g8753385f616b;1"
+data "Boosts" "RollBonus(Attack,-5)"
+data "Properties" "IsHidden"
+
+//Marksman Ring Passives
 
 new entry "ATO_Dex_1"
 type "PassiveData"

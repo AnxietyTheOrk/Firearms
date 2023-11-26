@@ -1,3 +1,5 @@
+//Reload Shouts
+
 new entry "Shout_Reload_MainHand"
 type "SpellData"
 data "SpellType" "Shout"
@@ -89,6 +91,8 @@ data "CastEffect" "806a170b-c567-4481-bb56-56871d8aaf5f"
 data "CinematicArenaFlags" "Ignore"
 data "SpellSoundMagnitude" "Small"
 data "Sheathing" "DontChange"
+
+//Aim Shout
 
 new entry "ATO_Aim"
 type "SpellData"
