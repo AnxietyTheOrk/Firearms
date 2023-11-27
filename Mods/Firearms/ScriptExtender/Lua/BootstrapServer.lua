@@ -18,9 +18,26 @@ local function on_session_loaded()
     "ATO_BulletOfWraithsEmbrace"
   }
 
+  local Chainfire=
+  {
+    "ATO_Chain_1",
+    "ATO_Chain_2",
+    "ATO_Chain_3",
+    "ATO_Chain_4",
+    "ATO_Chain_5",
+    "ATO_Chain_6",
+  }
+
   Ext.Osiris.RegisterListener("UsingSpellOnTarget", 6, "after", function (caster, target, spell, spellType, spellElement, storyActionID)
     if spell == "ATO_RandomShot" then
-        print("Caught!")
         Osi.UseSpell(caster, RandomShot[ math.random( #RandomShot ) ], target)
     end
+end)
+
+Ext.Osiris.RegisterListener("UsingSpellOnTarget", 6, "after", function (caster, target, spell, spellType, spellElement, storyActionID)
+  if spell == "ATO_Chainfire" then
+      print("Caught!")
+      Osi.UseSpell(caster, Chainfire[ math.random( #Chainfire ) ], target)
+      print(spell)
+  end
 end)
