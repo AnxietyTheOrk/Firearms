@@ -82,4 +82,6 @@
   <content contentuid="hc1f5d5b1gd80eg499fgb1bcgfbb6be0fbbba" version="1">Increases Dexterity</content>
   <content contentuid="h3b644e31ga241g4a4bg9fdcgba7103cccf8e" version="1">Random Shot</content>
   <content contentuid="hf67fd885gc860g4d10g9262g6c38bfc36003" version="1">Fires a random type of bullet at the enemy</content>
+  <content contentuid="h2d21119agdf26g4bcfg8b7fg7ae52b6c488f" version="1">Chainfire</content>
+  <content contentuid="h5bc19a07gca5bg4e40ga160g64c56cdc31f4" version="1">When you fire your pepperbox, a spark might set off more chambers, firing between 1 and 6 shots.</content>
 </contentList>
