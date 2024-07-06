@@ -1,5 +1,0 @@
-{
-    "RequiredVersion": 9,
-    "ModTable": "Firearms",
-    "FeatureFlags": ["Lua"]
-}

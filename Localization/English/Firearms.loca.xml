@@ -84,4 +84,34 @@
   <content contentuid="hf67fd885gc860g4d10g9262g6c38bfc36003" version="1">Fires a random type of bullet at the enemy</content>
   <content contentuid="h2d21119agdf26g4bcfg8b7fg7ae52b6c488f" version="1">Chainfire</content>
   <content contentuid="h5bc19a07gca5bg4e40ga160g64c56cdc31f4" version="1">When you fire your pepperbox, a spark might set off more chambers, firing between 1 and 6 shots.</content>
+  <content contentuid="h90f8e1c3gacafg40ffg8de3ga26143321d01" version="1">Bullets of The Slayer</content>
+  <content contentuid="hdb1c22ebged7dg4d8bgbe6eg1e609a5d83c5" version="1">A selection of ammo for slaying specific creatures.</content>
+  <content contentuid="h26902e1cgf6d4g4801ga640g3904fe3a6a66" version="1">Bullets of Aberration Slaying</content>
+  <content contentuid="h60008764g266dg43fcg9762g1177b24529a2" version="1"></content>
+  <content contentuid="h413bd0d4gf5f1g4191g8f6bg41d41a84cd3b" version="1">Bullets of Beast Slaying</content>
+  <content contentuid="h194269f2g52b1g4ebag8fa1g8fd3f16a51f0" version="1"></content>
+  <content contentuid="hd091db68gf2d4g46e0gb378geb4b4756b4cc" version="1">Bullets of Celectial Slaying</content>
+  <content contentuid="h79d33855g023cg498bga35cg680222b75842" version="1"></content>
+  <content contentuid="h3aa921ecgc668g4052ga54bg02e847568a57" version="1">Bullets of Construct Slaying</content>
+  <content contentuid="hc9b43ba5g9b51g4437g8403g5692c55bd4fc" version="1"></content>
+  <content contentuid="h7ac592cfgbed6g4c83g8db9g42b76f46e9a9" version="1">Bullets of Dragon Slaying</content>
+  <content contentuid="hf18b3d44gc687g4093gb7d7g1f312f3decc0" version="1"></content>
+  <content contentuid="h1d68c866g08a5g4dbag8f7bg5f70b698a6e3" version="1">Bullets of Elemental Slaying</content>
+  <content contentuid="h2d8f5d1dg8e1cg4c4fgb025gdf4298b7b808" version="1"></content>
+  <content contentuid="hffc3d497ga069g47efg9d50g9b11ce5c5e85" version="1">Bullets of Fey Slaying</content>
+  <content contentuid="h16f6a28ag8e82g4084g924egc06b3afc7d76" version="1"></content>
+  <content contentuid="h5750fce2gf568g43c6ga83cge3bc617e858d" version="1">Bullets of Fiend Slaying</content>
+  <content contentuid="hd8df0844g8704g4363gae3cg206c8c35666e" version="1"></content>
+  <content contentuid="hb5bf741dg9cf3g4729g84e8g4529d35b0dd8" version="1">Bullets of Giant Slaying</content>
+  <content contentuid="hedbc989cg17ebg455dgb145g3582c37502b6" version="1"></content>
+  <content contentuid="hd663be89ga3d2g4393gbdabgead9a6796744" version="1">Bullets of Humanoid Slaying</content>
+  <content contentuid="he628d2c8g18f0g497dgaf65ge23f109fac39" version="1"></content>
+  <content contentuid="he8abe2a9ga220g4285g8bfag08dc4ec06a17" version="1">Bullets of Monstrosity Slaying</content>
+  <content contentuid="h79508e5fg0045g46fcg8279g3327b2d66a47" version="1"></content>
+  <content contentuid="h86f205fegd6e8g47b6gb8c4g6660ab978f8d" version="1">Bullets of Ooze Slaying</content>
+  <content contentuid="h65cbd096g613cg435cg88cagb69f59615ebc" version="1"></content>
+  <content contentuid="h2d9d4b69g9407g440ega7dbg2811b7d63e2d" version="1">Bullets of Plant Slaying</content>
+  <content contentuid="h7f4a5f0agb106g4c40g848cge10c9b96cadd" version="1"></content>
+  <content contentuid="ha31921c4g5ceag49ebgb327gac5f069844c0" version="1">Bullets of Undead Slaying</content>
+  <content contentuid="hd3e87cd6ga952g40d4g95d1gcd06caad6b40" version="1"></content>
 </contentList>

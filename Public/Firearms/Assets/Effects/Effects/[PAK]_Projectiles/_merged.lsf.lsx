@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+	<region id="EffectBank">
+		<node id="EffectBank">
+			<children>
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="3 3 3" />
+					<attribute id="BoundsMin" type="fvec3" value="-3 -3 -3" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="1" />
+					<attribute id="EffectName" type="FixedString" value="VFX_Projectiles_Bullet" />
+					<attribute id="ID" type="FixedString" value="e7b1e7db-b7b5-4593-83d3-102e31cde738" />
+					<attribute id="InterruptionMode" type="uint32" value="0" />
+					<attribute id="Looping" type="bool" value="True" />
+					<attribute id="Name" type="LSString" value="VFX_Projectiles_Bullet" />
+					<attribute id="SourceFile" type="LSString" value="Public/Firearms/Assets/Effects/Effects_Banks/Projectiles/VFX_Projectiles_Bullet.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209014" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="2ccc9f8c-09a2-4bf5-b094-fccd10a23dc7" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>	
