@@ -4,16 +4,48 @@
   <region id="Config">
     <node id="root">
       <children>
-        <node id="Dependencies" />
+        <node id="Dependencies">
+          <children>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSWString" value="AnxietysToolkitForFirearms" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="FixedString" value="ATF (Anxiety's Toolkit for Firearms)" />
+              <attribute id="UUID" type="FixedString" value="3d8d1d3b-c8e3-4dba-ae6f-19da85bc6f6c" />
+              <attribute id="Version64" type="int64" value="36028797018963968" />
+            </node>
+          </children>
+        </node>
         <node id="ModuleInfo">
           <attribute id="Author" type="LSString" value="AnxietyTheOrk" /> Your alias
-                    <attribute id="CharacterCreationLevelName" type="FixedString" value="" /><attribute id="Description" type="LSString" value="Adds flintlock pistols and musket rifles" /> Description of your mod
-                    <attribute id="Folder" type="LSString" value="Firearms" /> The name of the mod folder
-                    <attribute id="GMTemplate" type="FixedString" value="" /><attribute id="LobbyLevelName" type="FixedString" value="" /><attribute id="MD5" type="LSString" value="" /><attribute id="MainMenuBackgroundVideo" type="FixedString" value="" /><attribute id="MenuLevelName" type="FixedString" value="" /><attribute id="Name" type="FixedString" value="Firearms" /> Mod's name. I recommend same as Folder
-                    <attribute id="NumPlayers" type="uint8" value="4" /><attribute id="PhotoBooth" type="FixedString" value="" /><attribute id="StartupLevelName" type="FixedString" value="" /><attribute id="Tags" type="LSString" value="" /><attribute id="Type" type="FixedString" value="Add-on" /><attribute id="UUID" type="FixedString" value="6cde95a8-2682-4645-9b38-2964962fe8e0" /> Generate new UUID
-					<attribute id="Version64" type="int64" value="108086397499342848" /> Version number for Mod Manager to read
-                    <children><node id="PublishVersion"><attribute id="Version64" type="int64" value="108086397499342848" /> Unique Version Number for this mod.
-                        </node><node id="Scripts" /><node id="TargetModes"><children><node id="Target"><attribute id="Object" type="FixedString" value="Story" /></node></children></node></children></node>
+          <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
+          <attribute id="Description" type="LSString" value="Adds flintlock pistols and musket rifles" /> Description of your mod
+          <attribute id="Folder" type="LSString" value="Firearms" /> The name of the mod folder
+          <attribute id="GMTemplate" type="FixedString" value="" />
+          <attribute id="LobbyLevelName" type="FixedString" value="" />
+          <attribute id="MD5" type="LSString" value="" />
+          <attribute id="MainMenuBackgroundVideo" type="FixedString" value="" />
+          <attribute id="MenuLevelName" type="FixedString" value="" />
+          <attribute id="Name" type="FixedString" value="Firearms" /> Mod's name. I recommend same as Folder
+          <attribute id="NumPlayers" type="uint8" value="4" />
+          <attribute id="PhotoBooth" type="FixedString" value="" />
+          <attribute id="StartupLevelName" type="FixedString" value="" />
+          <attribute id="Tags" type="LSString" value="" />
+          <attribute id="Type" type="FixedString" value="Add-on" />
+          <attribute id="UUID" type="FixedString" value="6cde95a8-2682-4645-9b38-2964962fe8e0" /> Generate new UUID
+					<attribute id="Version64" type="int64" value="144115188075855872" /> Version number for Mod Manager to read
+            <children>
+              <node id="PublishVersion"><attribute id="Version64" type="int64" value="144115188075855872" /> 
+              </node>
+              <node id="Scripts" />
+              <node id="TargetModes">
+              <children>
+                <node id="Target">
+                  <attribute id="Object" type="FixedString" value="Story" />
+                </node>
+              </children>
+            </node>
+          </children>
+        </node>
       </children>
     </node>
   </region>
