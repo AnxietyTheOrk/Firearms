@@ -8,7 +8,7 @@
 					<attribute id="CanShootThrough" type="bool" value="True" />
 					<attribute id="Description" type="TranslatedString" handle="h50526015g759bg4970g9b67g15e1457699b8" version="2" /> Points to Localization xml file. Generate new handle
 					<attribute id="DisplayName" type="TranslatedString" handle="h900372b6gf1dfg47cdg855bg2b80d92796c6" version="2" /> Points to Localization xml file. Generate new handle
-					<attribute id="EquipmentTypeID" type="guid" value="a177942e-e0fc-406e-b34e-5c9157b43aee" /> This determines the animations and how the weapon is held
+					<attribute id="EquipmentTypeID" type="guid" value="87fbc05b-c870-4bc1-95fb-56ea3fcb9e22" /> This determines the animations and how the weapon is held
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="Icon" type="FixedString" value="ATO_Flintlock" /> Keep the original icon, as the visuals have not been altered
 					<attribute id="IsInspector" type="bool" value="True" />

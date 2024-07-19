@@ -23,5 +23,6 @@
     },
     "files.associations": {
         "*.txt": "bg3txt"
-    }
+    },
+    "bg3ModHelper.rootModPath": "d:\\BG3 Modding Tools\\~5e Firearms\\Firearms"
 }
